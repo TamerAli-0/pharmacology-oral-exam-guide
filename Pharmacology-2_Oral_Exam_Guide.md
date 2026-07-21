@@ -43,7 +43,7 @@ Cardiac glycosides derived from *Digitalis* plants; **digoxin** is the prototype
 - Digoxin improves symptoms in HF but has **no mortality benefit**
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks the Na/K pump → calcium rises inside → heart beats stronger; also boosts vagal tone → slows the AV node. **Kinetics:** Kidney-cleared, long half-life, narrow safety margin (digitoxin = liver-cleared, even longer). **Uses:** Heart failure symptoms and rate control in atrial fibrillation. **Side effects:** Nausea, yellow vision, and arrhythmias; low potassium makes it worse; reverse with digoxin antibody (Digibind).
+**Mechanism:** Inhibits the Na/K-ATPase; sodium builds up inside, so the Na/Ca exchanger expels less calcium — intracellular calcium rises and the heart contracts more forcefully (positive inotropy). It also raises vagal tone, slowing AV conduction and heart rate. **Pharmacokinetics:** Digoxin is excreted unchanged by the kidneys, half-life ~36–40 h, narrow therapeutic index — reduce the dose in renal failure. Digitoxin is ~97% protein-bound, liver-metabolised, half-life 5–7 days. **Therapeutic uses:** Heart failure (improves symptoms, not survival) and rate control in atrial fibrillation/flutter. **Adverse effects:** Nausea and vomiting first, then yellow-green vision (xanthopsia) and any arrhythmia, classically bidirectional VT; hypokalaemia, hypomagnesaemia and hypercalcaemia worsen toxicity — reverse with digoxin-specific antibody fragments (Digibind).
 
 ---
 ## 2. Carvedilol
@@ -71,7 +71,7 @@ Cardiac glycosides derived from *Digitalis* plants; **digoxin** is the prototype
 - Contraindicated in **decompensated HF, asthma, severe bradycardia**
 
 **🗣️ 30–60 sec oral answer**
-**What it is:** A beta-blocker that also blocks alpha-1, so it dilates vessels too. **Uses:** Heart failure (one of only 3 that lower death), hypertension, post-MI. **Side effects:** Low BP, slow heart rate, tiredness, bronchospasm; start low and go slow.
+**Therapeutic uses:** A non-selective beta-blocker that also blocks alpha-1, adding vasodilation. Used in heart failure — one of only three beta-blockers that reduce mortality (with bisoprolol and metoprolol succinate) — plus hypertension and post-MI. **Adverse effects:** Hypotension, dizziness, bradycardia, fatigue and bronchospasm (avoid in asthma); in heart failure it must be started low and titrated slowly because it can worsen failure acutely before helping.
 
 ---
 ## 3. Nonselective β-Adrenergic Blockers
@@ -116,7 +116,7 @@ Agents that block both **β₁** and **β₂** adrenergic receptors; prototypes 
 - β₂ blockade = bronchospasm + masked hypoglycemia — the two classic contraindication scenarios
 
 **🗣️ 30–60 sec oral answer**
-**Effects:** Block β1 (slower, weaker heart, less renin) and β2 (bronchoconstriction, and they hide hypoglycaemia). **Uses:** Hypertension, angina, arrhythmias, migraine, tremor, thyrotoxicosis, glaucoma. **Side effects:** Bradycardia, fatigue, cold hands, bronchospasm; never stop suddenly (rebound).
+**Pharmacological effects:** Block β1 and β2. β1 block lowers heart rate, contractility, cardiac output and renin; β2 block causes bronchoconstriction, blunts glycogenolysis and masks hypoglycaemia; they also lower intraocular pressure. Propranolol is the lipophilic prototype. **Therapeutic uses:** Hypertension, angina, arrhythmias, migraine prophylaxis, essential tremor, thyrotoxicosis, glaucoma (timolol) and performance anxiety. **Adverse effects:** Bradycardia, heart block, fatigue, cold extremities, bronchospasm (avoid in asthma/COPD), masked hypoglycaemia in diabetics, CNS effects like depression, and rebound hypertension if stopped abruptly — always taper.
 
 ---
 ## 4. Organic Nitrates
@@ -163,7 +163,7 @@ Vasodilator drugs that release nitric oxide (NO); include **nitroglycerin (NTG)*
 - **Never** give with PDE-5 inhibitors — life-threatening hypotension
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Release nitric oxide → raise cGMP → veins relax → less preload and less oxygen demand. **Kinetics:** Sublingual GTN works in minutes; big first-pass; use a nitrate-free interval to avoid tolerance. **Side effects:** Headache, low BP, reflex fast heart; never with sildenafil (fatal drop in BP).
+**Mechanism:** Release nitric oxide, which activates guanylyl cyclase and raises cGMP, relaxing vascular smooth muscle — mainly veins, reducing preload and myocardial oxygen demand. **Pharmacokinetics:** Sublingual nitroglycerin acts in 1–3 min and bypasses first-pass; isosorbide dinitrate/mononitrate are oral (mononitrate has 100% bioavailability). Tolerance develops with continuous use, so allow a nitrate-free interval. **Pharmacological effects:** Relieve angina, dilate coronaries and redistribute flow to the ischaemic subendocardium. **Adverse effects:** Throbbing headache (commonest), orthostatic hypotension, flushing and reflex tachycardia (combine with a beta-blocker); never with PDE-5 inhibitors like sildenafil — fatal hypotension.
 
 ---
 ## 5. β-Adrenergic Blockers for Angina
@@ -200,7 +200,7 @@ Vasodilator drugs that release nitric oxide (NO); include **nitroglycerin (NTG)*
 - Never use alone in **Prinzmetal angina** — can worsen coronary spasm
 
 **🗣️ 30–60 sec oral answer**
-**Effects:** Slow the heart and lower contractility and BP, so the heart needs less oxygen; slower rate also improves filling. **Uses:** First-line for stable angina and post-MI (lower death). **Side effects:** Bradycardia, fatigue, bronchospasm; don't use alone in vasospastic (Prinzmetal) angina — it can worsen it.
+**Pharmacological effects:** Reduce myocardial oxygen demand by lowering heart rate, contractility and blood pressure; the slower rate also lengthens diastole and improves coronary perfusion. **Therapeutic uses:** First-line for chronic stable angina, standard in unstable angina/NSTEMI, and post-MI they reduce reinfarction and mortality; they combine well with nitrates. **Adverse effects:** Bradycardia, hypotension, fatigue, bronchospasm, cold extremities and masked hypoglycaemia. Do NOT use alone in vasospastic (Prinzmetal) angina — unopposed alpha worsens spasm; use a calcium channel blocker there.
 
 ---
 ## 6. Calcium Channel Blockers (CCBs)
@@ -267,7 +267,7 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - Never give **IV verapamil + IV β-blocker** — risk of asystole
 
 **🗣️ 30–60 sec oral answer**
-**Classes:** Dihydropyridines (nifedipine, amlodipine = vessels) and non-DHP (verapamil, diltiazem = heart). **Mechanism:** Block L-type calcium channels → dilate arteries; verapamil/diltiazem also slow the heart. **Uses:** Angina (first choice in vasospastic), hypertension, SVT. **Side effects:** Nifedipine → flushing, ankle swelling, reflex tachycardia; verapamil → constipation and bradycardia. **Verapamil interactions:** Never with beta-blockers (asystole), and it raises digoxin levels.
+**Classification:** Dihydropyridines (nifedipine, amlodipine) act on vessels; non-dihydropyridines verapamil and diltiazem act on the heart. **Mechanism:** Block L-type calcium channels — arterial vasodilation lowers afterload; verapamil/diltiazem also reduce heart rate and contractility. **Uses:** All types of angina (drug of choice in vasospastic), hypertension, and SVT (verapamil/diltiazem). **Adverse effects:** Nifedipine → flushing, headache, ankle oedema, reflex tachycardia; verapamil → constipation, bradycardia, AV block, worsening heart failure. **Verapamil vs nifedipine:** verapamil lowers heart rate, contractility and AV conduction, while nifedipine is a potent vasodilator causing reflex tachycardia. **Verapamil interactions:** never with a beta-blocker (severe bradycardia/asystole), and it raises digoxin levels.
 
 ---
 ## 7. Ticlopidine, Clopidogrel, Prasugrel
@@ -303,7 +303,7 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - All are **irreversible** — must be stopped **5–7 days** before elective surgery
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Prodrugs that irreversibly block the P2Y12 ADP receptor, so platelets can't clump — for the platelet's whole life. **Uses:** ACS and after stents (with aspirin), stroke prevention. **Side effects:** Bleeding; ticlopidine → neutropenia; prasugrel → more bleeding; clopidogrel is weakened by omeprazole.
+**Mechanism:** Prodrugs (activated by CYP450) that irreversibly block the platelet P2Y12 ADP receptor, stopping GPIIb/IIIa activation and aggregation for the platelet's lifespan. **Pharmacological effects:** Irreversibly inhibit ADP-induced aggregation and prolong bleeding time. **Therapeutic uses:** Clopidogrel — ACS, after coronary stents (with aspirin), stroke/TIA prevention; prasugrel — ACS with PCI (faster, stronger); ticlopidine is largely abandoned. **Adverse effects:** Bleeding; ticlopidine causes neutropenia and TTP; prasugrel bleeds most (avoid after prior stroke); clopidogrel is weakened by omeprazole (CYP2C19). Stop 5–7 days before surgery.
 
 ---
 ## 8. Heparin
@@ -347,7 +347,7 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - Safe in pregnancy (does not cross placenta) — unlike warfarin
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Activates antithrombin III → blocks thrombin (IIa) and Xa (LMWH mostly Xa). **Uses:** Immediate anticoagulation — DVT/PE, ACS, and safe in pregnancy. **Monitoring/antidote:** aPTT; reverse with protamine. **Side effects:** Bleeding, and HIT (immune, causes clots not just bleeding); long-term → osteoporosis.
+**Mechanism:** Binds antithrombin III and boosts it ~1000-fold, inactivating thrombin (IIa) and factor Xa; LMWH (enoxaparin) mainly inhibits Xa. **Pharmacological effects:** Immediate anticoagulation, prolongs aPTT (used to monitor UFH), and does not cross the placenta. **Therapeutic uses:** Acute DVT and PE, ACS, DVT prophylaxis, bridging to warfarin, and anticoagulation in pregnancy. **Adverse effects:** Bleeding (reverse with protamine sulfate); HIT type II — an immune reaction that paradoxically causes thrombosis, so stop heparin and switch to a direct thrombin inhibitor; long-term use causes osteoporosis and hyperkalaemia.
 
 ---
 ## 9. Warfarin
@@ -414,7 +414,7 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - **Rifampin** is the strongest enzyme inducer reducing warfarin effect; **metronidazole/fluconazole** are common CYP2C9 inhibitors that increase effect
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks vitamin K recycling → fewer factors II, VII, IX, X. **Kinetics:** Oral, slow onset 3–5 days (bridge with heparin), monitored by INR. **Uses:** Long-term — AF, valves, DVT/PE prevention. **Side effects:** Bleeding (reverse with vitamin K or FFP/PCC), skin necrosis. **Interactions/contraindication:** Many CYP drugs; never in pregnancy.
+**Mechanism:** Inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of factors II, VII, IX, X and proteins C and S. **Pharmacokinetics:** Oral, ~99% protein-bound, metabolised by CYP2C9; slow onset of 3–5 days (bridge with heparin); monitored by PT/INR (target 2–3). **Pharmacological effects:** Fewer functional clotting factors, prolonged INR. **Therapeutic uses:** Long-term prevention — atrial fibrillation, mechanical valves, DVT/PE. **Adverse effects:** Bleeding (reverse with vitamin K, or FFP/PCC in emergencies) and skin necrosis in protein C deficiency. **Interactions:** Inhibitors (metronidazole, fluconazole, amiodarone) raise effect; inducers (rifampin, carbamazepine) lower it. **Contraindications:** Pregnancy, active bleeding, severe liver disease.
 
 ---
 ## 10. Comparison of Heparin vs Warfarin
@@ -445,7 +445,7 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - Pregnancy = heparin only
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Heparin activates antithrombin (blocks IIa/Xa); warfarin blocks vitamin K factors. **Kinetics:** Heparin = injection, works instantly, monitor aPTT; warfarin = oral, slow 3–5 days, monitor INR. **Uses:** Heparin for acute and pregnancy; warfarin for long-term. We overlap both for the first 5 days.
+**Mechanism:** Heparin activates antithrombin III to block thrombin and Xa; warfarin blocks synthesis of vitamin K-dependent factors II, VII, IX, X. **Pharmacokinetics:** Heparin is parenteral, works in seconds, monitored by aPTT, reversed by protamine, safe in pregnancy; warfarin is oral, slow onset 3–5 days, monitored by PT/INR, reversed by vitamin K, and teratogenic. **Therapeutic uses:** Heparin for acute in-hospital anticoagulation and pregnancy; warfarin for chronic outpatient anticoagulation. The two overlap for the first 5 days when starting warfarin.
 
 ---
 ## 11. ACE Inhibitors
@@ -492,7 +492,7 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - ACE inhibitors + ARBs together = increased adverse effects, no added benefit — avoid dual RAAS blockade
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block angiotensin II → vessels dilate, less aldosterone; also raise bradykinin. **Uses:** First-line in hypertension, heart failure, post-MI, and diabetic kidney disease (protects kidneys). **Side effects:** Dry cough and angioedema (bradykinin), high potassium; avoid in pregnancy and bilateral renal artery stenosis.
+**Mechanism:** Block angiotensin-converting enzyme, so less angiotensin II (vasodilation, less aldosterone), and they reduce breakdown of bradykinin. **Pharmacological effects:** Lower blood pressure without reflex tachycardia, reduce cardiac remodelling, and protect the kidney by dilating the efferent arteriole. **Therapeutic uses:** First-line in hypertension (especially diabetics), heart failure and post-MI (reduce mortality), and diabetic nephropathy. **Adverse effects:** Dry cough and angioedema (bradykinin), hyperkalaemia, first-dose hypotension, and acute kidney injury in bilateral renal artery stenosis; contraindicated in pregnancy.
 
 ---
 ## 12. Angiotensin Receptor Blockers (ARBs)
@@ -535,7 +535,7 @@ ARBs (e.g., **losartan, valsartan, candesartan, irbesartan**) selectively block 
 - **Losartan** has unique uricosuric effect (lowers uric acid — useful in gout)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block the angiotensin II AT1 receptor directly; don't touch bradykinin, so no cough. **Uses:** Same as ACE inhibitors and the go-to when cough appears — hypertension, heart failure, diabetic nephropathy. **Side effects:** High potassium; avoid in pregnancy and renal artery stenosis; losartan also lowers uric acid.
+**Mechanism:** Selectively block the angiotensin II AT1 receptor, preventing vasoconstriction, aldosterone release and remodelling; unlike ACE inhibitors they don't affect bradykinin, so no cough. **Pharmacological effects:** Lower blood pressure and are renoprotective, like ACE inhibitors. **Therapeutic uses:** Hypertension, heart failure and diabetic nephropathy — the choice when a patient can't tolerate the ACE inhibitor cough. **Adverse effects:** Hyperkalaemia, hypotension, and renal failure in bilateral renal artery stenosis; contraindicated in pregnancy. Losartan also lowers uric acid; never combine an ACE inhibitor with an ARB.
 
 ---
 ## 13. Therapeutic Strategies for Treatment of Hypertension
@@ -579,7 +579,7 @@ Hypertension management follows a stepped approach starting with lifestyle modif
 - **Pheochromocytoma:** always block α BEFORE β (to avoid hypertensive crisis from unopposed α stimulation)
 
 **🗣️ 30–60 sec oral answer**
-**First step:** Lifestyle — less salt, weight loss, exercise. **Drugs:** Four first-line classes — thiazides, ACE inhibitors, ARBs, calcium channel blockers. **By patient:** ACE/ARB for diabetes and kidney disease; thiazide or CCB for elderly/Black patients; methyldopa in pregnancy. **Step up:** Add a second then third drug (ACE/ARB + CCB + thiazide), then spironolactone if resistant. Never combine ACE + ARB.
+**Lifestyle first:** Salt restriction, DASH diet, weight loss, exercise and limiting alcohol. **First-line classes:** Thiazides, ACE inhibitors, ARBs and calcium channel blockers. **Choice by comorbidity:** ACE inhibitor/ARB for diabetes and CKD; thiazide or CCB for the elderly and Black patients; beta-blocker plus ACE inhibitor after MI; methyldopa or labetalol in pregnancy. **Stepwise:** Start monotherapy, then combine classes — a common triple is ACE/ARB + CCB + thiazide, adding spironolactone for resistant hypertension. Never combine ACE inhibitor with ARB, and in phaeochromocytoma always block alpha before beta.
 
 ---
 ## 14. Thiazide Diuretics
@@ -624,7 +624,7 @@ Thiazide diuretics (e.g., **hydrochlorothiazide, chlorthalidone, indapamide**) a
 - Chlorthalidone has a longer half-life and stronger evidence base than HCTZ
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block the Na/Cl transporter in the distal tubule; they keep calcium. **Uses:** First-line hypertension, calcium stones, nephrogenic diabetes insipidus. **Side effects:** The 'hyper' ones — low sodium and potassium, high calcium, sugar, uric acid (gout), and lipids.
+**Mechanism:** Inhibit the Na/Cl cotransporter in the early distal convoluted tubule, and they increase calcium reabsorption. **Pharmacological effects:** Moderate diuresis, lower blood pressure (chronically by reducing peripheral resistance), and reduce urinary calcium. **Therapeutic uses:** First-line hypertension (good in elderly and Black patients), calcium kidney stones, and paradoxically nephrogenic diabetes insipidus. **Adverse effects:** The metabolic set — hyponatraemia, hypokalaemia, hypercalcaemia, hyperuricaemia (gout), hyperglycaemia, hyperlipidaemia — plus metabolic alkalosis; they're sulfonamides, so cross-allergy is possible.
 
 ---
 ## 15. Loop Diuretics (Bumetanide, Furosemide, Torsemide, Ethacrynic Acid)
@@ -673,7 +673,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Ototoxicity risk is additive with **aminoglycosides** — avoid combination if possible
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block the Na/K/2Cl transporter in the loop of Henle — the strongest diuretics; they lose calcium. **Uses:** Pulmonary oedema, heart failure overload, hypercalcaemia. **Side effects:** Low potassium, low calcium/magnesium, ototoxicity, dehydration; ethacrynic acid is the only one safe in sulfa allergy.
+**Mechanism:** Inhibit the Na/K/2Cl cotransporter in the thick ascending limb — the most potent diuretics — and they increase calcium and magnesium loss. **Pharmacological effects:** Massive natriuresis and diuresis, effective even at low GFR, plus venodilation that reduces preload. **Therapeutic uses:** Acute pulmonary oedema, heart failure with fluid overload, oedema, and hypercalcaemia. **Adverse effects:** Hypokalaemia, metabolic alkalosis, hypocalcaemia and hypomagnesaemia, ototoxicity, hyperuricaemia and dehydration. Ethacrynic acid is the only non-sulfonamide loop (use in sulfa allergy) but has the highest ototoxicity.
 
 ---
 ## 16. Spironolactone and Eplerenone
@@ -720,7 +720,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Most dangerous complication: **life-threatening hyperkalemia**, especially with concurrent RAAS blockade
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block the aldosterone receptor in the collecting duct → mild diuresis, keeps potassium. **Uses:** Heart failure (lower death), primary hyperaldosteronism, cirrhosis with ascites, resistant hypertension. **Side effects:** High potassium; spironolactone causes gynaecomastia (switch to eplerenone).
+**Mechanism:** Competitively block the aldosterone (mineralocorticoid) receptor in the collecting duct, reducing sodium reabsorption while sparing potassium. **Pharmacological effects:** Mild diuresis with potassium retention plus anti-fibrotic cardiac effects. **Therapeutic uses:** Heart failure (reduce mortality — RALES/EPHESUS), primary hyperaldosteronism (Conn's), cirrhosis with ascites, and resistant hypertension as a fourth agent. **Adverse effects:** Hyperkalaemia (dangerous with ACE inhibitors/ARBs); spironolactone also causes gynaecomastia and menstrual changes (hits androgen/progesterone receptors) — switch to the selective eplerenone.
 
 ---
 ## 17. Acetazolamide
@@ -773,7 +773,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - **Contraindicated in hepatic cirrhosis** (ammonia accumulation → encephalopathy)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks carbonic anhydrase in the proximal tubule → lose bicarbonate → alkaline urine, mild self-limiting diuresis. **Uses:** Glaucoma, altitude sickness, and correcting metabolic alkalosis. **Side effects:** Metabolic acidosis, low potassium, kidney stones, tingling; avoid in liver failure.
+**Mechanism:** Inhibits carbonic anhydrase in the proximal tubule, blocking bicarbonate reabsorption, so alkaline bicarbonate-rich urine is produced. **Pharmacokinetics:** Oral, renally excreted; effect is self-limiting because as metabolic acidosis develops less bicarbonate is filtered. **Pharmacological effects:** Mild diuresis, metabolic acidosis, lower intraocular pressure and reduced CSF production. **Therapeutic uses:** Open-angle glaucoma, altitude sickness (acidosis drives compensatory hyperventilation), metabolic alkalosis and pseudotumor cerebri. **Adverse effects:** Metabolic acidosis, hypokalaemia, calcium-phosphate kidney stones and paraesthesia; avoid in cirrhosis (encephalopathy risk).
 
 ---
 ## 18. Centrally Acting Adrenergic Drugs: Clonidine and α-Methyldopa
@@ -815,7 +815,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Both reduce central sympathetic tone via α₂ agonism — different mechanisms to get there
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Both are central alpha-2 agonists → less sympathetic outflow → lower BP. **Uses:** Methyldopa is the go-to in pregnancy; clonidine also for opioid withdrawal and ADHD. **Side effects:** Sedation, dry mouth; methyldopa → Coombs-positive haemolytic anaemia; clonidine → rebound hypertension if stopped suddenly.
+**Mechanism:** Both stimulate central alpha-2 receptors in the brainstem, reducing sympathetic outflow and lowering blood pressure; methyldopa is a prodrug converted to alpha-methyl-noradrenaline. **Therapeutic uses:** Methyldopa is the antihypertensive of choice in pregnancy; clonidine is used in resistant hypertension, opioid and alcohol withdrawal, and ADHD. **Adverse effects:** Both cause sedation, dry mouth, bradycardia and orthostatic hypotension. Methyldopa specifically causes Coombs-positive haemolytic anaemia and hepatotoxicity; clonidine causes severe rebound hypertension if stopped abruptly — always taper.
 
 ---
 ## 19. Vasodilators: Hydralazine and Minoxidil
@@ -857,7 +857,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - **Hydralazine + ISDN** = mortality benefit in Black patients with HFrEF (A-HeFT trial)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Direct artery dilators — hydralazine via nitric oxide, minoxidil opens K channels. **Uses:** Hydralazine + nitrate helps heart failure in Black patients; minoxidil for severe resistant BP (and topical for hair). **Side effects:** Both cause reflex fast heart and fluid retention (give with beta-blocker + diuretic); hydralazine → drug-induced lupus; minoxidil → excess hair growth.
+**Mechanism:** Direct arteriolar vasodilators that reduce afterload — hydralazine acts via nitric oxide/cGMP, minoxidil opens ATP-sensitive potassium channels (hyperpolarising the muscle). **Therapeutic uses:** Hydralazine plus isosorbide dinitrate reduces mortality in Black patients with heart failure and treats hypertensive emergency in pregnancy; minoxidil is reserved for severe resistant hypertension (and topical for hair loss). **Adverse effects:** Both cause reflex tachycardia and fluid retention, so give with a beta-blocker and a diuretic. Hydralazine causes drug-induced lupus (anti-histone antibodies, slow acetylators); minoxidil causes hypertrichosis and pericardial effusion.
 
 # Part II — Drugs Affecting the Central Nervous System
 
@@ -892,7 +892,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Levodopa treats symptoms, not disease progression.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Levodopa crosses into the brain and becomes dopamine; carbidopa blocks that conversion outside the brain so more gets in. **Kinetics:** Short half-life; protein meals reduce absorption. **Uses:** Best drug for Parkinson (rigidity, slowness). **Side effects:** Nausea, low BP, dyskinesias, on-off swings, hallucinations. **Interactions:** Avoid non-selective MAO inhibitors (hypertensive crisis).
+**Mechanism:** Levodopa crosses the blood-brain barrier and is converted by DOPA decarboxylase into dopamine, replacing what's lost in Parkinson's; carbidopa inhibits this conversion peripherally (it can't cross the BBB), so more levodopa reaches the brain and peripheral side effects fall. **Pharmacokinetics:** Short half-life; high-protein meals reduce absorption; carbidopa cuts the required dose about four-fold. **Therapeutic uses:** The most effective drug for Parkinson's, best for bradykinesia and rigidity. **Adverse effects:** Nausea, orthostatic hypotension, dyskinesias, on-off fluctuations and hallucinations. **Interactions:** Non-selective MAO inhibitors risk hypertensive crisis; antipsychotics and pyridoxine (without carbidopa) reduce its effect.
 
 ---
 ## 2. Parkinson — MAO-B Inhibitors (Selegiline, Rasagiline)
@@ -921,7 +921,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Never combine with meperidine — serotonin syndrome risk.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block MAO-B so dopamine isn't broken down. **Kinetics:** Selegiline makes amphetamine metabolites (insomnia); rasagiline doesn't. **Use:** Early Parkinson or add-on to reduce wearing-off. **Side effects:** Insomnia; avoid meperidine and SSRIs (serotonin syndrome).
+**Mechanism:** Selectively and irreversibly inhibit MAO-B, preventing dopamine breakdown in the striatum. **Pharmacokinetics:** Selegiline forms amphetamine metabolites (causing insomnia); rasagiline has none and is better tolerated. **Indication:** Monotherapy in early Parkinson's or add-on to levodopa to reduce wearing-off. **Adverse effects:** Insomnia and headache; selectivity is lost at high doses (tyramine reaction), and they must not be combined with meperidine or SSRIs (serotonin syndrome).
 
 ---
 ## 3. Parkinson — COMT Inhibitors (Entacapone, Tolcapone)
@@ -950,7 +950,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Orange urine is a harmless but classic board-tested finding.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block COMT so levodopa lasts longer and more reaches the brain — always add-on to levodopa. **Kinetics:** Entacapone works only peripherally; tolcapone also central. **Side effects:** Diarrhoea, orange urine, more dyskinesia; tolcapone → liver damage (monitor LFTs).
+**Mechanism:** Inhibit COMT, which breaks levodopa down to 3-O-methyldopa, so levodopa's half-life and brain delivery increase — no effect alone. **Pharmacokinetics:** Entacapone acts only peripherally and is short-acting; tolcapone also acts centrally and lasts longer. **Indication:** Add-on to levodopa/carbidopa for wearing-off. **Adverse effects:** Diarrhoea, nausea, more dyskinesia and harmless orange urine; tolcapone can cause fatal hepatotoxicity and needs liver monitoring.
 
 ---
 ## 4. Parkinson — Dopamine Agonists
@@ -987,7 +987,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Less dyskinesia than levodopa but also less efficacious for motor symptoms.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Directly stimulate dopamine (D2) receptors, no conversion needed; non-ergot preferred (pramipexole, ropinirole). **Use:** Early Parkinson or add-on. **Side effects:** Nausea, low BP, hallucinations, sleep attacks, and impulse-control problems like gambling.
+**Mechanism:** Directly stimulate dopamine D2 receptors, independent of the degenerating neurons; non-ergot agents (pramipexole, ropinirole, rotigotine) are preferred over ergot ones. **Pharmacokinetics:** Pramipexole is renally cleared, ropinirole is hepatic; apomorphine is a subcutaneous rescue for acute 'off' episodes. **Indication:** Monotherapy in early Parkinson's or add-on to reduce 'off' time. **Adverse effects:** Nausea, orthostatic hypotension, hallucinations, sudden sleep attacks, and impulse-control disorders (gambling, hypersexuality); ergot types cause fibrosis.
 
 ---
 ## 5. Treatment of Seizures: Classification and Mechanisms
@@ -1014,7 +1014,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Status epilepticus first-line = IV lorazepam.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanisms:** Four ways — block sodium channels (phenytoin, carbamazepine), block T-type calcium (ethosuximide for absence), boost GABA (benzodiazepines, barbiturates), or cut glutamate. **By type:** Focal → carbamazepine/lamotrigine; absence → ethosuximide; broad-spectrum → valproate; status epilepticus → IV lorazepam first.
+**Mechanisms:** Antiseizure drugs work four ways — block sodium channels (phenytoin, carbamazepine, lamotrigine); block T-type calcium channels (ethosuximide); enhance GABA (benzodiazepines, barbiturates, vigabatrin); or reduce glutamate (perampanel, topiramate). Levetiracetam binds SV2A; valproate uses several mechanisms. **By seizure type:** Focal → carbamazepine/lamotrigine; generalised tonic-clonic → valproate/lamotrigine; absence → ethosuximide; myoclonic → valproate; status epilepticus → IV lorazepam first, then fosphenytoin. Valproate is the broadest-spectrum agent.
 
 ---
 ## 6. Carbamazepine
@@ -1046,7 +1046,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - A potent CYP inducer — always check drug interactions.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks sodium channels. **Kinetics:** Induces its own metabolism (autoinduction) and is a strong CYP inducer. **Side effects:** Double vision, ataxia, low sodium (SIADH), aplastic anaemia, and SJS — screen HLA-B*1502 in Asian patients.
+**Mechanism:** Blocks voltage-gated sodium channels in the inactivated state, reducing high-frequency firing. **Pharmacokinetics:** Slow, erratic absorption; a potent CYP3A4 inducer that induces its own metabolism (autoinduction), so half-life falls over weeks and it lowers many drug levels. **Adverse effects:** Diplopia, ataxia and sedation; hyponatraemia (SIADH-like); aplastic anaemia and agranulocytosis (monitor blood counts); and Stevens-Johnson syndrome linked to HLA-B*1502 — screen Asian patients. It can worsen absence seizures.
 
 ---
 ## 7. Valproic Acid
@@ -1078,7 +1078,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Fatal hepatotoxicity in children <2 years — boxed warning.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks sodium and T-type calcium channels and raises GABA — the broadest antiseizure drug. **Kinetics:** Enzyme inhibitor, highly protein-bound. **Side effects:** Liver toxicity (worst in kids under 2), neural tube defects (avoid in pregnancy), weight gain, hair loss, tremor.
+**Mechanism:** Multiple actions — blocks sodium and T-type calcium channels and raises brain GABA — giving the broadest spectrum. **Pharmacokinetics:** Well absorbed, ~90% protein-bound, and a CYP inhibitor that raises other drug levels and displaces phenytoin. **Adverse effects:** Fatal hepatotoxicity (highest risk in children under 2 on polytherapy — boxed warning), teratogenic neural tube defects (avoid in pregnancy), thrombocytopenia, weight gain, hair loss, tremor and pancreatitis.
 
 ---
 ## 8. Phenytoin
@@ -1111,7 +1111,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Highly protein-bound + CYP inducer = interaction-heavy drug.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks sodium channels. **Kinetics:** Zero-order — a small dose rise causes a big jump; CYP inducer, highly protein-bound. **Side effects:** Nystagmus first, then ataxia; gum overgrowth, hirsutism, megaloblastic anaemia, fetal hydantoin syndrome.
+**Mechanism:** Blocks sodium channels in the inactivated state, suppressing repetitive firing. **Pharmacokinetics:** Zero-order (saturation) kinetics — a small dose rise causes a large jump in level; ~90% protein-bound and a potent CYP inducer; give IV as fosphenytoin to avoid cardiotoxicity. **Adverse effects:** Nystagmus (earliest sign), then ataxia and sedation; gingival hyperplasia, hirsutism, megaloblastic anaemia (folate), osteomalacia (vitamin D), and fetal hydantoin syndrome.
 
 ---
 ## 9. Gabapentin
@@ -1139,7 +1139,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Also used for neuropathic pain and postherpetic neuralgia (major off-label use).
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Binds the alpha-2-delta calcium channel subunit — despite the name it does NOT act on GABA. **Kinetics:** Not metabolised, kidney-cleared, no drug interactions. **Side effects:** Sedation, dizziness, weight gain, ankle swelling; also used for nerve pain.
+**Mechanism:** Binds the alpha-2-delta subunit of voltage-gated calcium channels, reducing excitatory neurotransmitter release — despite the name it does NOT act on GABA. **Pharmacokinetics:** Absorbed by a saturable amino-acid transporter, not protein-bound, not metabolised, excreted unchanged by the kidneys, so essentially no drug interactions (dose-adjust in renal impairment). **Adverse effects:** Sedation, dizziness, ataxia, peripheral oedema and weight gain; well tolerated, and also used for neuropathic pain.
 
 ---
 ## 10. Zolpidem, Zaleplon, Ramelteon, Melatonin
@@ -1172,7 +1172,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Zolpidem complex sleep behaviors (sleep-driving) is a boxed warning.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Zolpidem and zaleplon hit GABA-A alpha-1 (sleep only); ramelteon and melatonin are melatonin-receptor agonists. **Use:** Short-term insomnia; ramelteon is safe in addiction (no abuse). **Kinetics:** Zaleplon is ultra-short (onset only). **Side effects:** Zolpidem → sleep-walking/driving.
+**Mechanism:** Zolpidem and zaleplon selectively bind the BZ1 (alpha-1) subunit of GABA-A, giving hypnosis without anxiolytic or muscle-relaxant effects; ramelteon and melatonin are melatonin MT1/MT2 agonists. **Pharmacokinetics:** Zolpidem lasts 2–3 h; zaleplon's ~1 h half-life suits sleep onset only; ramelteon has no abuse potential and isn't scheduled. **Indication:** Short-term insomnia; ramelteon suits patients with substance-abuse history. **Adverse effects:** Zolpidem causes next-day drowsiness and complex sleep behaviours like sleep-driving.
 
 ---
 ## 11. Benzodiazepines
@@ -1218,7 +1218,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Safer than barbiturates in overdose — cannot directly open the Cl- channel without GABA.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Boost GABA by increasing the frequency of chloride channel opening (barbiturates increase duration). **Effects/uses:** Anti-anxiety, sedative, anticonvulsant, muscle relaxant — used for anxiety, insomnia, status epilepticus, alcohol withdrawal. **Dependence:** Tolerance and withdrawal (rebound anxiety, seizures) — taper; reverse overdose with flumazenil.
+**Mechanism:** Bind the benzodiazepine site on GABA-A and increase the frequency of chloride channel opening (barbiturates increase duration); they need GABA present, so they're safer in overdose. **Pharmacokinetics:** Classified by duration; the LOT drugs (lorazepam, oxazepam, temazepam) undergo direct glucuronidation and are safest in liver disease. **Pharmacological effects:** Anxiolytic, sedative-hypnotic, anticonvulsant, muscle relaxant and amnestic. **Therapeutic uses:** Anxiety, insomnia, status epilepticus (IV lorazepam), alcohol withdrawal, procedural sedation. **Dependence:** Tolerance and physical dependence develop; withdrawal causes rebound anxiety and seizures — taper; reverse overdose with flumazenil.
 
 ---
 ## 12. Opioids: Classification and MOA
@@ -1254,7 +1254,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Mixed agonist-antagonists can precipitate withdrawal in opioid-dependent patients.
 
 **🗣️ 30–60 sec oral answer**
-**Classes:** Strong agonists (morphine, fentanyl), weak (codeine), mixed (pentazocine), partial (buprenorphine), antagonists (naloxone). **Mechanism:** Activate Gi-coupled mu/kappa/delta receptors → less cAMP, open K, close Ca → block pain. **Effects:** Pain relief, euphoria, respiratory depression, pinpoint pupils, constipation.
+**Classification:** Strong agonists (morphine, fentanyl, methadone), moderate (codeine), mixed agonist-antagonists (pentazocine), partial agonist (buprenorphine), and antagonists (naloxone, naltrexone). **Mechanism:** Activate Gi-coupled mu, kappa and delta receptors — inhibiting adenylyl cyclase, opening potassium channels and closing calcium channels — reducing pain transmission; mu is the key receptor. **Pharmacological effects:** Analgesia, euphoria, respiratory depression (the cause of death in overdose), miosis, cough suppression, constipation and nausea; no tolerance develops to miosis or constipation.
 
 ---
 ## 13. Opioids — Strong Agonists — Morphine: MOA and PK
@@ -1280,7 +1280,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Glucuronidation (NOT CYP-mediated) — fewer drug interactions than expected.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Full mu-receptor agonist — blocks pain in the spinal cord and switches on descending pain control. **Kinetics:** Low oral bioavailability (~25%, big first-pass); active metabolite M6G builds up in kidney failure and can cause prolonged respiratory depression.
+**Mechanism:** A full mu-receptor agonist; via Gi signalling it inhibits ascending pain pathways in the spinal dorsal horn and activates descending inhibition from the periaqueductal grey, altering pain perception and the emotional response to it. **Pharmacokinetics:** Well absorbed by all routes but low oral bioavailability (~25%) from first-pass metabolism; glucuronidated to active morphine-6-glucuronide, which accumulates in renal failure and can cause prolonged respiratory depression; relatively low lipid solubility, so slower BBB entry than fentanyl.
 
 ---
 ## 14. Opioids — Strong Agonists — Morphine: Actions, Uses, Adverse Effects, Tolerance, Interactions
@@ -1328,7 +1328,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - CNS depressant combinations are the most dangerous interactions (synergistic respiratory depression).
 
 **🗣️ 30–60 sec oral answer**
-**Actions:** Pain relief, euphoria, respiratory depression, pinpoint pupils, constipation. **Uses:** Severe pain, cancer pain, pulmonary oedema. **Side effects:** Respiratory depression (kills in overdose) and constipation. **Tolerance/dependence:** Tolerance to most effects but NOT pupils or constipation; withdrawal is nasty but not deadly. **Interactions:** Dangerous with other CNS depressants.
+**Actions:** Analgesia, euphoria, respiratory depression, miosis, constipation, and histamine release causing hypotension. **Therapeutic uses:** Severe acute and cancer pain, and acute pulmonary oedema (venodilation reduces preload). **Adverse effects:** Respiratory depression (kills in overdose), constipation, nausea, urinary retention and pruritus. **Tolerance and dependence:** Tolerance to most effects but NOT to miosis or constipation; physical dependence gives a withdrawal syndrome (lacrimation, diarrhoea, piloerection, cramps) that is unpleasant but not fatal. **Interactions:** Additive respiratory depression with other CNS depressants; meperidine with MAO inhibitors causes serotonin syndrome.
 
 ---
 ## 15. Opioid Antagonists: Naloxone and Naltrexone
@@ -1370,7 +1370,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
   - Naltrexone is also used for ALCOHOL dependence — not just opioids.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Pure mu-receptor blockers, no agonist effect. **Uses:** Naloxone = emergency overdose reversal (IV/nasal, short-acting, may need repeating); naltrexone = long-acting oral/monthly, for opioid and alcohol relapse prevention. **Side effects:** Trigger withdrawal in dependent patients; naltrexone can harm the liver.
+**Mechanism:** Competitive mu-receptor antagonists with no agonist activity, reversing analgesia, euphoria and respiratory depression. **Uses:** Naloxone is the drug of choice for acute opioid overdose — IV, IM or intranasal, working in minutes but short-acting (30–90 min), so repeat dosing may be needed for long-acting opioids; naltrexone is long-acting and orally bioavailable (or monthly depot), used for relapse prevention in opioid and alcohol dependence. **Adverse effects:** Both precipitate withdrawal in dependent patients; naltrexone is hepatotoxic at high doses.
 
 # Part III — Principles of Antimicrobial Therapy
 
@@ -1390,7 +1390,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Renal dosing adjustment is the most commonly tested patient factor.
 
 **🗣️ 30–60 sec oral answer**
-**Identify:** Gram stain and culture, taken before antibiotics. **Empiric:** Start broad for the likely bug, then narrow. **Susceptibility:** MIC shows sensitive vs resistant. **Site:** Drug must reach it — CNS only if meninges are inflamed. **Patient:** Kidney/liver, pregnancy, allergy. **Safety:** Pick the least toxic that works.
+**Identify the organism:** Gram stain, culture and rapid tests — take samples before antibiotics. **Empiric therapy:** Start broad cover for the most likely pathogen, then de-escalate once cultures return. **Susceptibility:** The MIC shows susceptible, intermediate or resistant. **Site of infection:** The drug must reach it — many cross the blood-brain barrier only when meninges are inflamed, and abscesses need drainage. **Patient factors:** Age, renal/hepatic function, pregnancy, allergies, immune status and G6PD. **Safety:** Choose the least toxic effective agent.
 
 ---
 ## 2. Determinants of Rational Dosing
@@ -1406,7 +1406,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Fluoroquinolones are both concentration-dependent AND have a long PAE.
 
 **🗣️ 30–60 sec oral answer**
-**Concentration-dependent** (aminoglycosides, fluoroquinolones): a higher peak kills more → big once-daily doses. **Time-dependent** (beta-lactams): keep the level above MIC → frequent dosing. **Post-antibiotic effect:** killing continues after levels drop, which lets aminoglycosides be given once daily.
+**Concentration-dependent killing:** For aminoglycosides and fluoroquinolones a higher peak-to-MIC ratio kills more, so give large infrequent (once-daily) doses. **Time-dependent killing:** For beta-lactams and vancomycin what matters is the time the level stays above the MIC, so dose frequently or by continuous infusion — raising concentration doesn't help. **Post-antibiotic effect:** Growth stays suppressed after levels fall below the MIC; aminoglycosides and fluoroquinolones have a long PAE, which is why once-daily dosing works.
 
 ---
 ## 3. Chemotherapeutic Spectrum
@@ -1422,7 +1422,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Extended-spectrum = aminopenicillins is a classic exam association.
 
 **🗣️ 30–60 sec oral answer**
-**Narrow** (e.g. vancomycin): few bugs, best when the pathogen is known. **Extended** (ampicillin): adds some gram-negatives. **Broad** (tetracyclines, carbapenems): many bugs, good for empiric use but risk superinfection like C. difficile.
+**Narrow-spectrum:** Active against a limited range (isoniazid, vancomycin, penicillin G) — best when the pathogen is known, sparing normal flora. **Extended-spectrum:** Aminopenicillins like ampicillin/amoxicillin keep gram-positive cover and add some gram-negatives. **Broad-spectrum:** Tetracyclines, fluoroquinolones and carbapenems hit many gram-positives and gram-negatives — useful empirically but they disrupt flora, risking superinfection like C. difficile colitis, and promote resistance.
 
 ---
 ## 4. Combinations of Antimicrobial Therapy
@@ -1450,7 +1450,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Resistance transfer via plasmids is the most clinically significant mechanism.
 
 **🗣️ 30–60 sec oral answer**
-**Why combine:** Synergy (penicillin + gentamicin), prevent resistance (TB regimen), broaden cover. **Downsides:** Antagonism (static + cidal drug), cost, more side effects. **Resistance:** Natural or acquired via mutation/plasmids — enzymes, target change, less entry, efflux pumps.
+**Advantages:** Synergy (penicillin + gentamicin in enterococcal endocarditis; TMP-SMX), prevention of resistance (TB uses isoniazid + rifampin + pyrazinamide + ethambutol), and broadened empiric cover. **Disadvantages:** Antagonism (a bacteriostatic drug like tetracycline blocks a bactericidal penicillin), higher cost, more side effects, and selection of resistant organisms. **Resistance:** Intrinsic (no target) or acquired by mutation or plasmid transfer — mechanisms are enzymatic inactivation, target modification, decreased permeability and efflux pumps.
 
 ---
 ## 5. Prophylactic Antibiotics; Complications of Antibiotic Therapy
@@ -1474,7 +1474,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Prophylaxis ≠ treatment — short course, targeted, before exposure.
 
 **🗣️ 30–60 sec oral answer**
-**Prophylaxis:** Prevent infection before exposure — cefazolin 30–60 min before surgery, TMP-SMX for PCP, isoniazid for latent TB. **Complications:** Allergy, direct toxicity, superinfection (C. difficile), and resistance.
+**Prophylactic antibiotics:** Given before exposure to prevent infection — a single dose of cefazolin 30–60 min before surgical incision; TMP-SMX for Pneumocystis in the immunocompromised; penicillin for rheumatic fever recurrence; isoniazid for latent TB; rifampin/ciprofloxacin for meningococcal contacts. **Complications of therapy:** Hypersensitivity (commonest with penicillins), direct toxicity (aminoglycoside nephro/ototoxicity), superinfection — especially C. difficile colitis, treated with oral vancomycin or fidaxomicin — and the emergence of resistant organisms.
 
 ---
 ## 6. Penicillins
@@ -1520,7 +1520,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - MRSA resistance is due to altered PBP2a (*mecA*), not β-lactamase.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block PBPs → wall can't cross-link → the bug bursts. **Spectrum:** Gram-positives; broader types add gram-negatives and Pseudomonas. **Resistance:** Beta-lactamase (beat it with clavulanate); altered PBP in MRSA. **Kinetics:** Renal (probenecid prolongs). **Side effects:** Allergy up to anaphylaxis; ampicillin rash in mononucleosis.
+**Mechanism:** Bactericidal — bind penicillin-binding proteins and block transpeptidation of the peptidoglycan wall, so the cell lyses. **Spectrum:** Penicillin G for gram-positives and syphilis; aminopenicillins add gram-negatives; antipseudomonals (piperacillin) are broadest. **Resistance:** Mainly beta-lactamase (overcome with clavulanate/tazobactam); altered PBP2a in MRSA. **Pharmacokinetics:** Renally excreted by tubular secretion (probenecid prolongs); amoxicillin has the best oral absorption. **Adverse reactions:** Hypersensitivity up to anaphylaxis, GI upset, and a non-allergic ampicillin rash in EBV mononucleosis.
 
 ---
 ## 7. Cephalosporins
@@ -1563,7 +1563,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - MTT side chain = bleeding + disulfiram reaction — cefotetan is the classic example.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Same as penicillins — block PBPs. **Spectrum:** 1st gen gram-positive → higher gens more gram-negative; ceftriaxone for meningitis/gonorrhoea; ceftaroline is the only one covering MRSA. **Resistance:** Beta-lactamases/ESBL. **Side effects:** Allergy (cross with penicillin), bleeding and a disulfiram reaction with MTT-type drugs.
+**Mechanism:** Like penicillins, bind PBPs and block cell-wall synthesis. **Spectrum by generation:** 1st (cefazolin) best gram-positive and surgical prophylaxis; 2nd add gram-negatives/anaerobes; 3rd (ceftriaxone) for meningitis and gonorrhoea; 4th (cefepime) adds Pseudomonas; 5th (ceftaroline) is the only beta-lactam covering MRSA. **Resistance:** Beta-lactamases including ESBLs. **Pharmacokinetics:** Ceftriaxone has the longest half-life and biliary excretion. **Adverse reactions:** Hypersensitivity with ~1–2% penicillin cross-reactivity, bleeding and a disulfiram reaction with MTT-side-chain drugs, and C. difficile.
 
 ---
 ## 8. Other β-Lactams — Carbapenems and Monobactams
@@ -1626,7 +1626,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Aztreonam = gram-negative aerobes only + SAFE in penicillin allergy (zero cross-reactivity).
 
 **🗣️ 30–60 sec oral answer**
-**Carbapenems:** Broadest beta-lactams (gram +/−, anaerobes); imipenem is given with cilastatin and has seizure risk (use meropenem for meningitis); ertapenem misses Pseudomonas. **Aztreonam:** Gram-negative only, and safe in penicillin allergy (no cross-reaction).
+**Carbapenems (imipenem, meropenem, ertapenem):** Bactericidal PBP binders and the broadest beta-lactams — gram-positives, gram-negatives and anaerobes — resisting most beta-lactamases. Imipenem is given with cilastatin (blocks renal DHP-1) and has the highest seizure risk (use meropenem for meningitis); ertapenem lacks Pseudomonas cover; resistance via carbapenemases (CRE). **Monobactam (aztreonam):** Binds PBP3 of gram-negative aerobes only (including Pseudomonas), no gram-positive/anaerobe cover, and has no cross-reactivity with penicillins — safe in penicillin allergy.
 
 ---
 ## 9. Vancomycin, Daptomycin, Telavancin
@@ -1689,7 +1689,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Daptomycin + statins = myopathy risk → stop statins.
 
 **🗣️ 30–60 sec oral answer**
-**Vancomycin:** Binds D-ala-D-ala, covers gram-positives/MRSA; oral for C. difficile; fast infusion → red-man syndrome. **Daptomycin:** Breaks the membrane, MRSA/VRE, but NOT for pneumonia (surfactant inactivates it); watch CK. **Telavancin:** Dual action, teratogenic.
+**Vancomycin:** A glycopeptide binding the D-ala-D-ala terminus to block cell-wall synthesis; covers gram-positives including MRSA (IV) and C. difficile (oral, not absorbed). Fast infusion causes red-man syndrome (histamine, not allergy); also nephro/ototoxic. **Daptomycin:** A lipopeptide that depolarises the membrane; covers MRSA and VRE but is inactivated by surfactant so is NEVER used for pneumonia — monitor CK for myopathy and stop statins. **Telavancin:** A lipoglycopeptide with dual action (wall + membrane) — teratogenic, needs a pregnancy test.
 
 ---
 ## 10. Tetracyclines
@@ -1732,7 +1732,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Chelation by cations = do not take with milk, antacids, or iron.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block the 30S ribosome (A site), bacteriostatic. **Spectrum:** Broad, incl. atypicals — doxycycline for Lyme, Rickettsia, Chlamydia. **Kinetics:** Chelated by calcium/iron (no dairy/antacids); doxycycline is safe in kidney failure. **Side effects:** Stains teeth/bones — avoid in kids under 8 and pregnancy; photosensitivity.
+**Mechanism:** Bacteriostatic — bind the 30S subunit and block aminoacyl-tRNA from the A site. **Spectrum:** Broad, including atypicals — doxycycline is first-line for Lyme, Rickettsia and Chlamydia. **Resistance:** Efflux pumps and ribosomal protection proteins. **Pharmacokinetics:** Absorption blocked by divalent cations (avoid dairy, antacids, iron); doxycycline is biliary-cleared, so safe in renal failure. **Adverse reactions:** Tooth discoloration and impaired bone growth (avoid under age 8 and in pregnancy), photosensitivity, and Fanconi syndrome from expired drug.
 
 ---
 ## 11. Aminoglycosides
@@ -1775,7 +1775,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - "Once daily = exploit concentration-dependent killing + long PAE."
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Irreversibly block the 30S → mRNA misread, bactericidal; need oxygen (no anaerobes). **Spectrum:** Aerobic gram-negatives; synergy with beta-lactams. **Kinetics:** IV only, renal, once-daily. **Side effects:** Nephrotoxicity (reversible) and ototoxicity (permanent); neuromuscular block.
+**Mechanism:** Bactericidal — irreversibly bind the 30S subunit causing mRNA misreading; uptake is oxygen-dependent, so inactive against anaerobes. **Spectrum:** Aerobic gram-negatives; synergistic with beta-lactams against gram-positives. **Resistance:** Plasmid-mediated modifying enzymes. **Pharmacokinetics:** Not absorbed orally — given IV/IM, renally cleared, dosed once daily (concentration-dependent killing plus long PAE) with level monitoring. **Adverse reactions:** Reversible nephrotoxicity, irreversible ototoxicity, and neuromuscular blockade; teratogenic.
 
 ---
 ## 12. Macrolides
@@ -1818,7 +1818,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - MLS_B resistance = cross-resistance between macrolides, lincosamides (clindamycin), and streptogramins.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block the 50S (translocation), bacteriostatic. **Spectrum:** Atypicals — Mycoplasma, Chlamydia, Legionella. **Kinetics:** Azithromycin has a long half-life and few interactions; erythro/clarithromycin inhibit CYP3A4. **Side effects:** GI upset (erythromycin), QT prolongation.
+**Mechanism:** Bacteriostatic — bind the 50S subunit and block translocation. **Spectrum:** Gram-positives and the atypicals (Mycoplasma, Chlamydia, Legionella) — first-line for atypical pneumonia. **Resistance:** Methylation of 23S rRNA (erm, gives MLS-B cross-resistance) and efflux pumps. **Pharmacokinetics:** Azithromycin has a long half-life, accumulates intracellularly and has few interactions; erythromycin and clarithromycin inhibit CYP3A4. **Adverse reactions:** GI upset (erythromycin is a motilin agonist), QT prolongation, and cholestatic hepatitis.
 
 ---
 ## 13. Chloramphenicol
@@ -1855,7 +1855,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Resistance = acetyltransferase (same enzyme name, different drug from aminoglycoside acetyltransferases).
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks the 50S peptidyl transferase. **Spectrum:** Broad, with good CSF entry. **Side effects:** Dose-related reversible marrow suppression, rare fatal aplastic anaemia, and gray baby syndrome in newborns. **Resistance:** Acetyltransferase.
+**Mechanism:** Bacteriostatic — binds the 50S subunit and inhibits peptidyl transferase. **Spectrum:** Broad, with excellent CSF penetration even without inflammation. **Resistance:** Plasmid-encoded acetyltransferase that inactivates the drug. **Pharmacokinetics:** Good oral absorption; hepatic glucuronidation; a CYP inhibitor. **Adverse reactions:** Dose-dependent reversible bone-marrow suppression; rare fatal idiosyncratic aplastic anaemia; and gray baby syndrome in neonates, who can't glucuronidate it.
 
 ---
 ## 14. Fluoroquinolones
@@ -1900,7 +1900,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Tendon rupture is the hallmark adverse effect — especially with steroids + age > 60.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block DNA gyrase and topoisomerase IV → DNA can't replicate. **Spectrum:** Ciprofloxacin for gram-negatives/Pseudomonas; levo/moxifloxacin add gram-positives. **Kinetics:** Excellent oral absorption; chelated by cations. **Side effects:** Tendon rupture, QT prolongation, cartilage damage — avoid in kids and pregnancy.
+**Mechanism:** Bactericidal — inhibit DNA gyrase (gram-negatives) and topoisomerase IV (gram-positives), blocking DNA replication. **Spectrum:** Ciprofloxacin for gram-negatives and Pseudomonas; levofloxacin and moxifloxacin add gram-positive and atypical cover. **Resistance:** Chromosomal mutations in the target enzymes and efflux pumps. **Pharmacokinetics:** Excellent oral bioavailability (oral ≈ IV); chelated by cations. **Adverse reactions:** Tendon rupture, QT prolongation, CNS effects and cartilage damage — contraindicated in children and pregnancy (black-box warnings).
 
 ---
 ## 15. Sulfonamides
@@ -1943,7 +1943,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - SJS/TEN is the most feared hypersensitivity reaction.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block dihydropteroate synthase → no folate. **Spectrum:** Broad; often paired with trimethoprim. **Side effects:** SJS, crystalluria (hydrate), haemolysis in G6PD deficiency, and kernicterus — avoid in neonates and late pregnancy.
+**Mechanism:** Bacteriostatic PABA analogs that competitively inhibit dihydropteroate synthase, blocking folate synthesis (selective, since bacteria must make folate). **Spectrum:** Broad; often combined with trimethoprim. **Resistance:** Overproduction of PABA or an altered enzyme. **Pharmacokinetics:** Well absorbed, cross the placenta; acetylated metabolites can crystallise. **Adverse reactions:** Stevens-Johnson syndrome, crystalluria (hydrate/alkalinise urine), haemolysis in G6PD deficiency, and kernicterus — contraindicated in neonates and late pregnancy.
 
 ---
 ## 16. Trimethoprim
@@ -1982,7 +1982,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - TMP causes hyperkalemia via ENaC blockade — frequently tested.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Blocks dihydrofolate reductase (the step after sulfonamides). **Use:** UTIs; combined with sulfamethoxazole. **Side effects:** Megaloblastic anaemia (give leucovorin), high potassium, and a fake creatinine rise (not real kidney damage).
+**Mechanism:** Inhibits dihydrofolate reductase (the step after sulfonamides), blocking folate and DNA synthesis; highly selective for the bacterial enzyme. **Spectrum:** Similar to sulfonamides; alone it treats uncomplicated UTIs. **Resistance:** Altered or overproduced dihydrofolate reductase. **Pharmacokinetics:** Concentrates in prostatic and vaginal fluid; renally excreted. **Adverse reactions:** Megaloblastic anaemia (rescue with leucovorin), hyperkalaemia (blocks ENaC like amiloride), and a harmless rise in creatinine from blocked tubular secretion — not true nephrotoxicity.
 
 ---
 ## 17. Co-trimoxazole (TMP-SMX)
@@ -2031,7 +2031,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - TMP-SMX is the oral MRSA drug for community-acquired skin infections.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Sulfamethoxazole + trimethoprim block two folate steps → synergistic and bactericidal. **Uses:** Drug of choice for PCP (treat and prevent), UTIs, community MRSA, Nocardia. **Side effects:** Both drugs' effects — allergy/SJS (common in HIV), marrow suppression, high potassium; avoid in neonates/pregnancy.
+**Mechanism:** Sulfamethoxazole blocks dihydropteroate synthase and trimethoprim blocks dihydrofolate reductase — a sequential double blockade that is synergistic and bactericidal. **Spectrum:** Broad; the drug of choice for Pneumocystis jirovecii pneumonia (treatment and prophylaxis), plus UTIs, community-acquired MRSA and Nocardia. **Resistance:** Combined resistance of both components. **Pharmacokinetics:** Both well absorbed with matched half-lives; cross the placenta. **Adverse reactions:** Both drugs' effects — hypersensitivity/SJS (very common in HIV), megaloblastic anaemia, hyperkalaemia and crystalluria; contraindicated in neonates, late pregnancy and G6PD deficiency.
 
 # Part IV — Drugs Used to Treat Endocrine Disorders
 
@@ -2063,7 +2063,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - I-131 is contraindicated in pregnancy and lactation
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Thioamides (methimazole, PTU) block thyroid peroxidase — PTU also blocks T4→T3; iodides shrink the gland before surgery; radioactive iodine destroys it; beta-blockers control symptoms. **Uses:** Methimazole first-line; PTU in first trimester and thyroid storm; I-131 never in pregnancy. **Side effects:** Agranulocytosis (watch for sore throat/fever); PTU → liver damage; I-131 → hypothyroidism.
+**Thioamides (methimazole, PTU):** Inhibit thyroid peroxidase, blocking hormone synthesis; PTU also blocks peripheral T4→T3. Methimazole is first-line; PTU is preferred in the first trimester and thyroid storm. **Iodides:** High doses transiently inhibit organification (Wolff-Chaikoff) and reduce gland vascularity before surgery. **Radioactive iodine (I-131):** Destroys thyroid tissue — definitive treatment, contraindicated in pregnancy. **Beta-blockers (propranolol):** Control tachycardia and tremor. **Adverse effects:** Agranulocytosis is the feared thioamide effect (watch for sore throat/fever); PTU causes hepatotoxicity; I-131 causes hypothyroidism.
 
 ---
 ## 2. Treatment of Hypothyroidism
@@ -2098,7 +2098,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - T4 has a 7-day half-life → takes weeks to reach steady state
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Levothyroxine (T4) converts to active T3. **Kinetics:** Take on an empty stomach (calcium/iron block it); long half-life; check TSH at 6–8 weeks; start low in the elderly and heart disease. **Side effects:** Over-dose looks like hyperthyroidism — palpitations, tremor; long-term → osteoporosis.
+**Drug and mechanism:** Levothyroxine (synthetic T4) is converted peripherally to active T3, which binds nuclear receptors to raise metabolic rate. **Pharmacokinetics:** ~80% oral absorption, reduced by food, calcium, iron and antacids — take on an empty stomach; long ~7-day half-life, so monitor TSH and adjust every 6–8 weeks; start low in the elderly and cardiac patients; pregnancy raises the requirement. **Adverse effects:** Essentially over-replacement — palpitations, tremor, heat intolerance, weight loss — and chronic excess causes osteoporosis and atrial fibrillation.
 
 ---
 ## 3. Insulin and Insulin Analogs
@@ -2142,7 +2142,7 @@ Insulin is a peptide hormone that lowers blood glucose; exogenous insulin is ess
 - Hypoglycemia and weight gain are the two big adverse effects of all insulins
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Binds its tyrosine-kinase receptor → GLUT4 pulls glucose into cells and builds glycogen/fat. **Kinetics:** Rapid (lispro/aspart) for meals, regular is the only IV one (DKA), NPH intermediate, glargine/detemir long and peakless. **Side effects:** Hypoglycaemia, weight gain, low potassium, injection-site lipodystrophy.
+**Mechanism:** Binds a receptor tyrosine kinase, activating PI3K/Akt and translocating GLUT4 so glucose enters muscle and fat; it also drives glycogen, fat and protein synthesis and pushes potassium into cells. **Pharmacokinetics:** Rapid-acting (lispro, aspart, glulisine) for meals; regular is the only IV insulin (DKA, hyperkalaemia); NPH is intermediate; glargine and detemir are long-acting and peakless. **Adverse effects:** Hypoglycaemia (the main danger), weight gain, injection-site lipodystrophy and hypokalaemia.
 
 ---
 ## 4. Amylin Analogs (Pramlintide)
@@ -2172,7 +2172,7 @@ Insulin is a peptide hormone that lowers blood glucose; exogenous insulin is ess
 - Cannot be mixed in the same syringe as insulin
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Amylin analog — slows gastric emptying, lowers glucagon, increases fullness. **Kinetics:** Injected before meals, not mixed with insulin. **Side effects:** Nausea and hypoglycaemia — cut mealtime insulin by half when starting.
+**Mechanism:** A synthetic amylin analog that slows gastric emptying, suppresses postprandial glucagon and increases satiety. **Pharmacokinetics:** Injected subcutaneously before meals; cannot be mixed with insulin in the same syringe. **Adverse effects:** Nausea (dose-limiting) and hypoglycaemia — reduce mealtime insulin by 50% when starting, especially in type 1 diabetes.
 
 ---
 ## 5. Sulfonylureas
@@ -2206,7 +2206,7 @@ Sulfonylureas are oral insulin secretagogues that stimulate endogenous insulin r
 - Weight gain distinguishes sulfonylureas from metformin (weight-neutral) and GLP-1 agonists (weight loss)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Close the beta-cell K-ATP channel → insulin released (glucose-independent). **Kinetics:** Glyburide avoided in kidney failure; glipizide safer. **Side effects:** Hypoglycaemia (main one) and weight gain; chlorpropamide → disulfiram reaction and SIADH.
+**Mechanism:** Bind the SUR1 subunit and close the beta-cell ATP-sensitive potassium channel, causing depolarisation, calcium influx and insulin release — glucose-independent, so they need working beta cells. **Pharmacokinetics:** Second-generation agents (glyburide, glipizide, glimepiride) are preferred; glyburide has active metabolites and is avoided in renal impairment, glipizide is safer. **Adverse effects:** Hypoglycaemia (main effect) and weight gain; chlorpropamide causes a disulfiram-like reaction and SIADH.
 
 ---
 ## 6. Glinides (Repaglinide, Nateglinide)
@@ -2236,7 +2236,7 @@ Glinides are short-acting insulin secretagogues, also called meglitinides; they 
 - Less hypoglycemia than sulfonylureas due to short half-life
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Same as sulfonylureas (close K-ATP) but fast and short — taken before each meal. **Kinetics:** Repaglinide is safe in kidney failure. **Side effects:** Hypoglycaemia (less than sulfonylureas) and weight gain.
+**Mechanism:** Like sulfonylureas they close the beta-cell K-ATP channel to release insulin, but bind a different site with faster onset and shorter duration — taken before each meal for postprandial control. **Pharmacokinetics:** Repaglinide is metabolised hepatically and excreted in bile, so it's safe in renal impairment; skip the dose if the meal is skipped. **Adverse effects:** Hypoglycaemia (less than sulfonylureas) and weight gain; gemfibrozil is contraindicated with repaglinide.
 
 ---
 ## 7. Biguanides (Metformin)
@@ -2270,7 +2270,7 @@ Glinides are short-acting insulin secretagogues, also called meglitinides; they 
 - Weight-neutral/loss distinguishes it from sulfonylureas and insulin
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Activates AMPK → the liver makes less glucose; no hypoglycaemia alone; weight-neutral. **Kinetics:** Cleared unchanged by the kidneys — stop if eGFR under 30 or before contrast. **Side effects:** GI upset, rare lactic acidosis, long-term B12 deficiency.
+**Mechanism:** Activates AMP-kinase, mainly decreasing hepatic gluconeogenesis and increasing peripheral insulin sensitivity; it doesn't stimulate insulin, so no hypoglycaemia alone, and it's weight-neutral. **Pharmacokinetics:** Not metabolised — excreted unchanged by the kidneys, so contraindicated when eGFR is below 30 and held before iodinated contrast (lactic acidosis risk). **Adverse effects:** GI upset (nausea, diarrhoea, metallic taste), rare but serious lactic acidosis, and vitamin B12 deficiency with long-term use.
 
 ---
 ## 8. Thiazolidinediones
@@ -2307,7 +2307,7 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Troglitazone withdrawn for hepatotoxicity; pioglitazone linked to bladder cancer
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Activate PPAR-gamma → more insulin sensitivity; takes weeks to work. **Side effects:** Fluid retention and weight gain (avoid in heart failure), fractures in women, and pioglitazone is linked to bladder cancer.
+**Mechanism:** Activate the nuclear receptor PPAR-gamma, increasing insulin sensitivity in fat, muscle and liver; onset takes weeks. **Pharmacokinetics:** Pioglitazone and rosiglitazone are oral, hepatically metabolised; pioglitazone improves the lipid profile. **Adverse effects:** Fluid retention, oedema and weight gain — contraindicated in heart failure; increased fractures (especially in women); hepatotoxicity risk (troglitazone was withdrawn); and pioglitazone is linked to bladder cancer.
 
 ---
 ## 9. Alpha-Glucosidase Inhibitors (Acarbose, Miglitol)
@@ -2340,7 +2340,7 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Targets postprandial glucose; minimal effect on fasting glucose
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism:** Block gut enzymes that digest carbs → lower post-meal sugar; take with the first bite. **Side effects:** Flatulence and diarrhoea; if hypoglycaemic on combo therapy, treat with glucose, not sucrose.
+**Mechanism:** Acarbose and miglitol reversibly inhibit intestinal alpha-glucosidase, delaying carbohydrate digestion and blunting the post-meal glucose spike — taken with the first bite of each meal. **Pharmacokinetics:** Acarbose acts locally and is barely absorbed; miglitol is absorbed and renally excreted. **Adverse effects:** Flatulence, bloating and diarrhoea (limit compliance); no hypoglycaemia alone, but if it occurs on combination therapy treat with glucose, not sucrose.
 
 ---
 ## 10. Glucocorticoids — Pharmacological Effects and Therapeutic Uses
@@ -2371,7 +2371,7 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Betamethasone for fetal lung maturity; dexamethasone for cerebral edema
 
 **🗣️ 30–60 sec oral answer**
-**Effects:** Raise blood sugar (diabetogenic), strongly anti-inflammatory (block phospholipase A2) and immunosuppressive; neutrophils up, lymphocytes/eosinophils down. **Uses:** Replacement in Addison's, anti-inflammatory in asthma/arthritis, immunosuppression in transplant/autoimmune, lymphomas, and betamethasone for fetal lung maturity.
+**Effects on organs:** Metabolic — raise blood glucose (gluconeogenesis, diabetogenic) and increase protein and fat breakdown with central fat redistribution. Anti-inflammatory — inhibit phospholipase A2 via lipocortin, cutting prostaglandins and leukotrienes, and suppress NF-kB. Immunosuppressive — reduce T-cells and cause lymphocyte apoptosis; on the blood count neutrophils rise while lymphocytes and eosinophils fall. **Therapeutic uses:** Replacement in Addison's, anti-inflammatory in asthma and rheumatoid arthritis, immunosuppression in transplant and autoimmune disease, haematological malignancies, cerebral oedema (dexamethasone), and betamethasone to mature fetal lungs.
 
 ---
 ## 11. Glucocorticoids — Pharmacokinetics and Adverse Effects
@@ -2406,5 +2406,5 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Prednisone is a prodrug → needs hepatic activation to prednisolone (avoid in severe liver failure)
 
 **🗣️ 30–60 sec oral answer**
-**Kinetics:** Hydrocortisone short-acting; prednisone intermediate (prodrug); dexamethasone long-acting, most potent, no mineralocorticoid effect. **Side effects:** Cushingoid look, osteoporosis, high sugar, infections, cataracts, ulcers; never stop suddenly — taper to avoid adrenal crisis.
+**Pharmacokinetics:** Classified by duration — hydrocortisone is short-acting with the most mineralocorticoid effect (replacement); prednisone/prednisolone are intermediate (prednisone is a prodrug activated in the liver); dexamethasone and betamethasone are long-acting, most potent, with no mineralocorticoid activity. Metabolised by hepatic CYP3A4. **Adverse effects:** Cushingoid features, osteoporosis (the main chronic harm), hyperglycaemia, increased infection risk, cataracts and glaucoma, peptic ulcers, and HPA-axis suppression — never stop abruptly, taper to avoid adrenal crisis.
 
