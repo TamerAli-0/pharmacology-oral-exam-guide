@@ -43,10 +43,9 @@ Cardiac glycosides derived from *Digitalis* plants; **digoxin** is the prototype
 - Digoxin improves symptoms in HF but has **no mortality benefit**
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Digoxin blocks the sodium-potassium pump on heart cells, so sodium builds up inside, which then raises calcium through the sodium-calcium exchanger, making the heart squeeze harder. It also increases vagal tone, which slows AV conduction and heart rate. **Pharmacokinetics:** Digoxin is cleared by the kidneys with a half-life of about 36 hours and a very narrow safety margin. Digitoxin, by contrast, is broken down by the liver and has a much longer half-life of 5 to 7 days. **Therapeutic uses:** We use digoxin in heart failure to improve symptoms (but it does not reduce death) and in atrial fibrillation to control heart rate. **Adverse effects:** The earliest signs of toxicity are nausea and vomiting, then yellow-green vision (xanthopsia), and any arrhythmia can happen, especially bidirectional ventricular tachycardia. Low potassium makes toxicity much worse because potassium and digoxin fight for the same spot on the pump. We reverse toxicity with digoxin-specific antibody fragments.
+**Mechanism:** Blocks the Na/K pump → calcium rises inside → heart beats stronger; also boosts vagal tone → slows the AV node. **Kinetics:** Kidney-cleared, long half-life, narrow safety margin (digitoxin = liver-cleared, even longer). **Uses:** Heart failure symptoms and rate control in atrial fibrillation. **Side effects:** Nausea, yellow vision, and arrhythmias; low potassium makes it worse; reverse with digoxin antibody (Digibind).
 
 ---
-
 ## 2. Carvedilol
 
 **Definition/Intro**
@@ -72,10 +71,9 @@ Cardiac glycosides derived from *Digitalis* plants; **digoxin** is the prototype
 - Contraindicated in **decompensated HF, asthma, severe bradycardia**
 
 **🗣️ 30–60 sec oral answer**
-**Therapeutic uses:** Carvedilol is one of only three beta-blockers proven to lower death in heart failure (along with metoprolol succinate and bisoprolol). It is also used for high blood pressure, where its alpha-1 blocking adds extra blood vessel relaxation, and for protection after a heart attack. **Adverse effects:** Because it blocks both beta-1 and beta-2 plus alpha-1 receptors, it can cause low blood pressure, dizziness, slow heart rate, and tiredness. Since it blocks beta-2, it can trigger bronchospasm, so it must be avoided in asthma. In heart failure patients, you must start at a very low dose and go up slowly because it can make heart failure worse at first before it helps long-term.
+**What it is:** A beta-blocker that also blocks alpha-1, so it dilates vessels too. **Uses:** Heart failure (one of only 3 that lower death), hypertension, post-MI. **Side effects:** Low BP, slow heart rate, tiredness, bronchospasm; start low and go slow.
 
 ---
-
 ## 3. Nonselective β-Adrenergic Blockers
 
 **Definition/Intro**
@@ -118,10 +116,9 @@ Agents that block both **β₁** and **β₂** adrenergic receptors; prototypes 
 - β₂ blockade = bronchospasm + masked hypoglycemia — the two classic contraindication scenarios
 
 **🗣️ 30–60 sec oral answer**
-**Pharmacological effects:** Nonselective beta-blockers like propranolol block both beta-1 and beta-2. Beta-1 blockade slows the heart, lowers the force of contraction, and cuts renin release. Beta-2 blockade tightens the airways and hides low-blood-sugar signs like fast heart rate and tremor in diabetics, though sweating stays because it is cholinergic. **Therapeutic uses:** They are used for high blood pressure, angina, arrhythmias, migraine prevention, essential tremor, thyroid storm, glaucoma (timolol), and stage fright. **Adverse effects:** Key side effects are slow heart rate, tiredness, cold hands and feet, bronchospasm (so they are banned in asthma), masking of low blood sugar, depression, vivid dreams, and sexual problems. If you stop them suddenly, you get dangerous rebound high blood pressure and fast heart rate, so you must always taper them off slowly.
+**Effects:** Block β1 (slower, weaker heart, less renin) and β2 (bronchoconstriction, and they hide hypoglycaemia). **Uses:** Hypertension, angina, arrhythmias, migraine, tremor, thyrotoxicosis, glaucoma. **Side effects:** Bradycardia, fatigue, cold hands, bronchospasm; never stop suddenly (rebound).
 
 ---
-
 ## 4. Organic Nitrates
 
 **Definition/Intro**
@@ -166,10 +163,9 @@ Vasodilator drugs that release nitric oxide (NO); include **nitroglycerin (NTG)*
 - **Never** give with PDE-5 inhibitors — life-threatening hypotension
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Nitrates release nitric oxide in smooth muscle, which turns on guanylyl cyclase, raises cGMP, and relaxes blood vessels. At low doses they mainly open veins (lowering preload); at higher doses they also open arteries. **Pharmacokinetics:** Sublingual nitroglycerin works in 1 to 3 minutes and skips first-pass breakdown. Isosorbide mononitrate is taken by mouth with 100% absorption and no first-pass effect. All nitrates cause tolerance with nonstop use, so you need a 10 to 12 hour nitrate-free window each day. **Pharmacological effects:** The main result is less preload, less oxygen demand on the heart, and better blood flow to the inner heart wall through collateral vessels. They also cause reflex fast heart rate, which is why we add a beta-blocker. **Adverse effects:** The most common side effect is headache. Other problems are low blood pressure when standing, flushing, and tolerance. The most dangerous rule: never give nitrates with PDE-5 drugs like sildenafil because the combination can cause deadly low blood pressure.
+**Mechanism:** Release nitric oxide → raise cGMP → veins relax → less preload and less oxygen demand. **Kinetics:** Sublingual GTN works in minutes; big first-pass; use a nitrate-free interval to avoid tolerance. **Side effects:** Headache, low BP, reflex fast heart; never with sildenafil (fatal drop in BP).
 
 ---
-
 ## 5. β-Adrenergic Blockers for Angina
 
 **Definition/Intro**
@@ -204,10 +200,9 @@ Vasodilator drugs that release nitric oxide (NO); include **nitroglycerin (NTG)*
 - Never use alone in **Prinzmetal angina** — can worsen coronary spasm
 
 **🗣️ 30–60 sec oral answer**
-**Pharmacological effects:** Beta-blockers slow the heart rate, lower contractility, and reduce blood pressure, so the heart needs much less oxygen. The slower rate also makes diastole longer, which actually gives the coronary arteries more time to fill with blood. **Therapeutic uses:** They are first-line for chronic stable angina and unstable angina. They are the only anti-anginal drugs proven to lower death after a heart attack. They work well with nitrates because the beta-blocker stops the reflex fast heart rate that nitrates cause. They must NOT be used in vasospastic (Prinzmetal) angina because blocking beta-2 leaves alpha-driven coronary spasm unopposed and can make it worse. **Adverse effects:** Side effects include slow heart rate, low blood pressure, tiredness, bronchospasm with nonselective agents, cold hands and feet, masking of low blood sugar, and rebound angina if stopped suddenly.
+**Effects:** Slow the heart and lower contractility and BP, so the heart needs less oxygen; slower rate also improves filling. **Uses:** First-line for stable angina and post-MI (lower death). **Side effects:** Bradycardia, fatigue, bronchospasm; don't use alone in vasospastic (Prinzmetal) angina — it can worsen it.
 
 ---
-
 ## 6. Calcium Channel Blockers (CCBs)
 
 **Definition/Intro**
@@ -272,10 +267,9 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - Never give **IV verapamil + IV β-blocker** — risk of asystole
 
 **🗣️ 30–60 sec oral answer**
-**Classification:** There are two groups: dihydropyridines like nifedipine (mainly relax blood vessels) and non-dihydropyridines, verapamil and diltiazem (mainly act on the heart). **Mechanism of action:** They all block L-type calcium channels. For angina, this relaxes coronary and peripheral vessels, lowering afterload and oxygen demand. Non-DHPs also slow the heart and reduce squeezing force. **Pharmacological effects:** All cause vasodilation and lower blood pressure. Verapamil and diltiazem slow heart rate; nifedipine can speed it up by reflex. **Therapeutic uses:** They treat all types of angina and are the drug of choice for Prinzmetal vasospastic angina. Verapamil and diltiazem also treat SVT. **Adverse effects:** Nifedipine causes flushing, headache, ankle swelling, and reflex fast heart rate. Verapamil causes constipation, slow heart rate, and can worsen heart failure. **Verapamil vs nifedipine:** Verapamil slows the heart, lowers contractility, and slows AV conduction; nifedipine does the opposite and speeds up the heart by reflex. **Drug interactions of verapamil:** Never give IV verapamil with IV beta-blockers because of the risk of cardiac arrest. Verapamil raises digoxin levels and can cause digoxin toxicity. It also raises levels of statins and cyclosporine through CYP3A4 blocking.
+**Classes:** Dihydropyridines (nifedipine, amlodipine = vessels) and non-DHP (verapamil, diltiazem = heart). **Mechanism:** Block L-type calcium channels → dilate arteries; verapamil/diltiazem also slow the heart. **Uses:** Angina (first choice in vasospastic), hypertension, SVT. **Side effects:** Nifedipine → flushing, ankle swelling, reflex tachycardia; verapamil → constipation and bradycardia. **Verapamil interactions:** Never with beta-blockers (asystole), and it raises digoxin levels.
 
 ---
-
 ## 7. Ticlopidine, Clopidogrel, Prasugrel
 
 **Definition/Intro**
@@ -309,10 +303,9 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - All are **irreversible** — must be stopped **5–7 days** before elective surgery
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** All three are prodrugs that need liver enzymes (CYP450) to become active. The active form locks onto the P2Y12 ADP receptor on platelets forever, so the effect lasts the whole life of that platelet, about 7 to 10 days. **Pharmacological effects:** They stop ADP from triggering platelet clumping, which makes bleeding time longer. They do not touch the prostaglandin pathway like aspirin does. **Therapeutic uses:** Clopidogrel is the most widely used, given with aspirin after stent placement and in acute coronary syndromes, stroke, and peripheral artery disease. Prasugrel works faster and stronger but has more bleeding risk. Ticlopidine has been mostly replaced. **Adverse effects:** Ticlopidine can cause severe low white blood cells (neutropenia) and TTP, which is why it fell out of use. Clopidogrel can lose its effect in CYP2C19 poor metabolizers and should not be combined with omeprazole; use pantoprazole instead. Prasugrel causes more bleeding, even fatal, and is banned in patients with prior stroke. All three must be stopped 5 to 7 days before planned surgery.
+**Mechanism:** Prodrugs that irreversibly block the P2Y12 ADP receptor, so platelets can't clump — for the platelet's whole life. **Uses:** ACS and after stents (with aspirin), stroke prevention. **Side effects:** Bleeding; ticlopidine → neutropenia; prasugrel → more bleeding; clopidogrel is weakened by omeprazole.
 
 ---
-
 ## 8. Heparin
 
 **Definition/Intro**
@@ -354,10 +347,9 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - Safe in pregnancy (does not cross placenta) — unlike warfarin
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Heparin binds to antithrombin III and makes it work about 1000 times faster at shutting down thrombin (factor IIa) and factor Xa. Unfractionated heparin blocks both IIa and Xa equally. Low-molecular-weight heparins like enoxaparin mainly block factor Xa because their chains are too short to bridge antithrombin to thrombin. **Pharmacological effects:** It works right away when given IV, it stretches the aPTT (that is how we monitor it), and it does not cross the placenta, so it is safe in pregnancy. **Therapeutic uses:** We use it for acute DVT, PE, acute coronary syndromes, surgical clot prevention, and as a bridge while starting warfarin. **Adverse effects:** The biggest risk is bleeding, and the antidote is protamine sulfate. The most feared problem is HIT type II, an immune reaction where platelet count drops but the patient actually gets blood clots, not bleeding. If HIT type II happens, stop heparin immediately and switch to a direct thrombin inhibitor like argatroban. Long-term use can also cause weak bones (osteoporosis).
+**Mechanism:** Activates antithrombin III → blocks thrombin (IIa) and Xa (LMWH mostly Xa). **Uses:** Immediate anticoagulation — DVT/PE, ACS, and safe in pregnancy. **Monitoring/antidote:** aPTT; reverse with protamine. **Side effects:** Bleeding, and HIT (immune, causes clots not just bleeding); long-term → osteoporosis.
 
 ---
-
 ## 9. Warfarin
 
 **Definition/Intro**
@@ -422,10 +414,9 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - **Rifampin** is the strongest enzyme inducer reducing warfarin effect; **metronidazole/fluconazole** are common CYP2C9 inhibitors that increase effect
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Warfarin blocks vitamin K epoxide reductase, so the body cannot recycle vitamin K. Without active vitamin K, the liver cannot finish making clotting factors II, VII, IX, and X. The effect takes 3 to 5 days because old factors must be used up first. Proteins C and S drop before the clotting factors, creating a short clot-promoting state at the start, which is why we bridge with heparin. **Pharmacokinetics:** It is taken by mouth, 99% stuck to albumin, broken down by CYP2C9, and has a half-life of about 36 to 42 hours. We track it with PT/INR, aiming for 2 to 3 in most cases. It crosses the placenta. **Pharmacological effects:** It lowers the levels of working factors II, VII, IX, and X, making PT/INR go up. **Therapeutic uses:** Long-term prevention of DVT/PE, stroke prevention in atrial fibrillation, and mechanical heart valves. **Adverse effects:** Bleeding is the main risk; reverse it with vitamin K (slow) or fresh frozen plasma/PCC (fast). Skin necrosis can happen in the first days, especially in protein C-deficient patients. It causes birth defects, so it is banned in pregnancy. **Drug interactions:** Rifampin (strongest inducer) lowers its effect; metronidazole and fluconazole (CYP2C9 blockers) raise bleeding risk; vitamin K-rich foods fight against it. **Contraindications:** Pregnancy, active bleeding, and recent brain or eye surgery.
+**Mechanism:** Blocks vitamin K recycling → fewer factors II, VII, IX, X. **Kinetics:** Oral, slow onset 3–5 days (bridge with heparin), monitored by INR. **Uses:** Long-term — AF, valves, DVT/PE prevention. **Side effects:** Bleeding (reverse with vitamin K or FFP/PCC), skin necrosis. **Interactions/contraindication:** Many CYP drugs; never in pregnancy.
 
 ---
-
 ## 10. Comparison of Heparin vs Warfarin
 
 | Feature | **Heparin (UFH)** | **Warfarin** |
@@ -454,10 +445,9 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - Pregnancy = heparin only
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Heparin speeds up antithrombin III to shut down thrombin and factor Xa right away. Warfarin blocks vitamin K recycling, stopping the liver from making new factors II, VII, IX, and X, but this takes 3 to 5 days. **Pharmacokinetics:** Heparin is given by injection (IV or SC), has a short half-life of 1 to 2 hours, tracked by aPTT, and reversed by protamine sulfate. Warfarin is taken by mouth, has a long half-life of about 40 hours, tracked by PT/INR, and reversed by vitamin K. Heparin does not cross the placenta, so it is safe in pregnancy. Warfarin does cross, causing birth defects. **Therapeutic uses:** Heparin is for acute, in-hospital situations like DVT, PE, ACS, and bridging. Warfarin is for long-term outpatient use like atrial fibrillation, DVT prevention, and mechanical heart valves. In practice, we give both together for the first 5 days when starting warfarin, then keep warfarin alone. In pregnancy, heparin is the only safe choice.
+**Mechanism:** Heparin activates antithrombin (blocks IIa/Xa); warfarin blocks vitamin K factors. **Kinetics:** Heparin = injection, works instantly, monitor aPTT; warfarin = oral, slow 3–5 days, monitor INR. **Uses:** Heparin for acute and pregnancy; warfarin for long-term. We overlap both for the first 5 days.
 
 ---
-
 ## 11. ACE Inhibitors
 
 **Definition/Intro**
@@ -502,10 +492,9 @@ CCBs block **L-type voltage-gated Ca²⁺ channels** in cardiac and smooth muscl
 - ACE inhibitors + ARBs together = increased adverse effects, no added benefit — avoid dual RAAS blockade
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** ACE inhibitors block the enzyme that turns angiotensin I into angiotensin II. Less angiotensin II means less vessel squeezing and less aldosterone. ACE also breaks down bradykinin, so blocking ACE lets bradykinin build up, giving extra vasodilation but also causing the dry cough. **Pharmacological effects:** Blood pressure drops without reflex fast heart rate. Potassium goes up because aldosterone is lower. They protect the kidneys by relaxing the efferent arteriole, which lowers pressure inside the glomerulus. They also stop harmful heart remodeling. **Therapeutic uses:** First-line for high blood pressure (especially in diabetes), heart failure (they lower death), after heart attacks, and diabetic kidney disease. **Adverse effects:** Dry cough in 10 to 20% of patients (switch to an ARB if this happens). Angioedema is rare but life-threatening. Other problems are high potassium, first-dose low blood pressure, and kidney failure if the patient has narrowing of both renal arteries. They cause birth defects and are completely banned in pregnancy.
+**Mechanism:** Block angiotensin II → vessels dilate, less aldosterone; also raise bradykinin. **Uses:** First-line in hypertension, heart failure, post-MI, and diabetic kidney disease (protects kidneys). **Side effects:** Dry cough and angioedema (bradykinin), high potassium; avoid in pregnancy and bilateral renal artery stenosis.
 
 ---
-
 ## 12. Angiotensin Receptor Blockers (ARBs)
 
 **Definition/Intro**
@@ -546,10 +535,9 @@ ARBs (e.g., **losartan, valsartan, candesartan, irbesartan**) selectively block 
 - **Losartan** has unique uricosuric effect (lowers uric acid — useful in gout)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** ARBs block the AT1 receptor directly, so angiotensin II cannot cause vessel tightening, aldosterone release, or heart remodeling. Unlike ACE inhibitors, they do not touch bradykinin, which is why they do not cause the dry cough. **Pharmacological effects:** Blood pressure drops, potassium goes up slightly, and they protect the kidneys just like ACE inhibitors by relaxing the efferent arteriole. **Therapeutic uses:** They are the go-to replacement when a patient cannot stand the ACE inhibitor cough. They are used for high blood pressure, heart failure, diabetic kidney disease, and after heart attacks. Losartan has a bonus effect of lowering uric acid, helpful in gout. **Adverse effects:** High potassium is the main danger, especially if combined with ACE inhibitors (which you should never do). They can cause kidney failure in bilateral renal artery stenosis, the same as ACE inhibitors. They cause birth defects and are banned in pregnancy, just like ACE inhibitors.
+**Mechanism:** Block the angiotensin II AT1 receptor directly; don't touch bradykinin, so no cough. **Uses:** Same as ACE inhibitors and the go-to when cough appears — hypertension, heart failure, diabetic nephropathy. **Side effects:** High potassium; avoid in pregnancy and renal artery stenosis; losartan also lowers uric acid.
 
 ---
-
 ## 13. Therapeutic Strategies for Treatment of Hypertension
 
 **Definition/Intro**
@@ -591,10 +579,9 @@ Hypertension management follows a stepped approach starting with lifestyle modif
 - **Pheochromocytoma:** always block α BEFORE β (to avoid hypertensive crisis from unopposed α stimulation)
 
 **🗣️ 30–60 sec oral answer**
-**Drug classes:** The four first-line groups are thiazide diuretics, ACE inhibitors, ARBs, and calcium channel blockers. Beta-blockers are no longer first-line for simple high blood pressure but stay first-line for heart failure and post-MI. **Stepped approach:** Start with lifestyle changes: low salt, DASH diet, exercise, weight loss. If that is not enough, start one drug. If still not at goal, add a second drug from a different class. Triple therapy is usually an ACE inhibitor or ARB plus a CCB plus a thiazide. If blood pressure is still not controlled on three drugs including a diuretic (resistant hypertension), add spironolactone as the fourth. **Comorbidity-based choices:** Diabetes or CKD: ACE inhibitor or ARB for kidney protection. Post-MI: beta-blocker plus ACE inhibitor. Elderly or Black patients: thiazide or CCB. Pregnancy: methyldopa is the safest, never ACE inhibitors or ARBs. Pheochromocytoma: always block alpha first, then beta. Never combine an ACE inhibitor with an ARB together.
+**First step:** Lifestyle — less salt, weight loss, exercise. **Drugs:** Four first-line classes — thiazides, ACE inhibitors, ARBs, calcium channel blockers. **By patient:** ACE/ARB for diabetes and kidney disease; thiazide or CCB for elderly/Black patients; methyldopa in pregnancy. **Step up:** Add a second then third drug (ACE/ARB + CCB + thiazide), then spironolactone if resistant. Never combine ACE + ARB.
 
 ---
-
 ## 14. Thiazide Diuretics
 
 **Definition/Intro**
@@ -637,10 +624,9 @@ Thiazide diuretics (e.g., **hydrochlorothiazide, chlorthalidone, indapamide**) a
 - Chlorthalidone has a longer half-life and stronger evidence base than HCTZ
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Thiazides block the sodium-chloride cotransporter in the early distal convoluted tubule, so more sodium is lost in the urine. They also save calcium, which is the opposite of loop diuretics. At first they lower blood pressure by reducing blood volume; with long-term use they lower it by relaxing blood vessels. **Pharmacological effects:** They cause moderate water loss, lower blood pressure, and keep calcium in the body. They stop working when GFR drops below 30, except metolazone. **Therapeutic uses:** First-line for high blood pressure, especially in elderly and Black patients. They prevent calcium kidney stones and help in osteoporosis because they save calcium. A classic fact: they are used in nephrogenic diabetes insipidus where they paradoxically reduce urine output. **Adverse effects:** Low potassium is the most important problem, especially dangerous if the patient takes digoxin. They also cause low sodium, high calcium, high uric acid leading to gout, high blood sugar, high cholesterol, and metabolic alkalosis. They are sulfonamide-based, so watch for sulfa allergy.
+**Mechanism:** Block the Na/Cl transporter in the distal tubule; they keep calcium. **Uses:** First-line hypertension, calcium stones, nephrogenic diabetes insipidus. **Side effects:** The 'hyper' ones — low sodium and potassium, high calcium, sugar, uric acid (gout), and lipids.
 
 ---
-
 ## 15. Loop Diuretics (Bumetanide, Furosemide, Torsemide, Ethacrynic Acid)
 
 **Definition/Intro**
@@ -687,10 +673,9 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Ototoxicity risk is additive with **aminoglycosides** — avoid combination if possible
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Loop diuretics block the NKCC2 cotransporter (sodium-potassium-2 chloride) in the thick ascending limb of the loop of Henle. This stops about 25% of sodium from being taken back, wipes out the concentration gradient in the kidney, and also wastes calcium and magnesium (opposite of thiazides, which save calcium). **Pharmacological effects:** They produce the strongest water loss of any diuretic. IV furosemide also relaxes veins right away, even before the urine starts flowing. They work even when GFR is very low, unlike thiazides. **Therapeutic uses:** Acute pulmonary edema (IV furosemide), heart failure with fluid overload, edema from liver or kidney disease, emergency treatment of high calcium (saline plus furosemide), and high potassium. **Adverse effects:** Low potassium (dangerous with digoxin), metabolic alkalosis, low calcium, low magnesium, hearing damage (worst with ethacrynic acid, and made worse by aminoglycosides), high uric acid, and dehydration. All are sulfonamide-based except ethacrynic acid, which is the safe choice in sulfa allergy.
+**Mechanism:** Block the Na/K/2Cl transporter in the loop of Henle — the strongest diuretics; they lose calcium. **Uses:** Pulmonary oedema, heart failure overload, hypercalcaemia. **Side effects:** Low potassium, low calcium/magnesium, ototoxicity, dehydration; ethacrynic acid is the only one safe in sulfa allergy.
 
 ---
-
 ## 16. Spironolactone and Eplerenone
 
 **Definition/Intro**
@@ -735,10 +720,9 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Most dangerous complication: **life-threatening hyperkalemia**, especially with concurrent RAAS blockade
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Both drugs block aldosterone receptors in the collecting duct, so less sodium is taken back and less potassium is lost. Spironolactone also binds androgen and progesterone receptors (not selective), while eplerenone only hits the aldosterone receptor (selective). **Pharmacological effects:** They cause mild water loss but keep potassium in the body. They also have anti-scarring effects on the heart, independent of their diuretic action. **Therapeutic uses:** Heart failure is the most important use because both are proven to lower death (RALES trial for spironolactone, EPHESUS for eplerenone). They are also used in Conn syndrome (primary hyperaldosteronism), liver cirrhosis with ascites, and resistant high blood pressure as a fourth drug. Spironolactone is used off-label for female acne and hirsutism because of its anti-androgen effect. **Adverse effects:** The most dangerous problem is high potassium, especially when combined with ACE inhibitors or ARBs. Spironolactone causes gynecomastia (breast growth) in men and period problems in women because of its anti-androgen action. If a male patient gets gynecomastia, switch to eplerenone, which does not have those hormonal side effects.
+**Mechanism:** Block the aldosterone receptor in the collecting duct → mild diuresis, keeps potassium. **Uses:** Heart failure (lower death), primary hyperaldosteronism, cirrhosis with ascites, resistant hypertension. **Side effects:** High potassium; spironolactone causes gynaecomastia (switch to eplerenone).
 
 ---
-
 ## 17. Acetazolamide
 
 **Definition/Intro**
@@ -789,10 +773,9 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - **Contraindicated in hepatic cirrhosis** (ammonia accumulation → encephalopathy)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Acetazolamide blocks carbonic anhydrase in the proximal tubule, stopping bicarbonate from being taken back. The urine becomes alkaline and full of bicarbonate. It also blocks carbonic anhydrase in the eye, lowering fluid production there. **Pharmacokinetics:** It is taken by mouth, goes to tissues rich in carbonic anhydrase (kidney, eye, brain, red blood cells), and is cleared unchanged by the kidneys. Its effect is self-limiting: as the body loses bicarbonate and becomes acidotic, less bicarbonate reaches the kidney, and the drug stops working. **Pharmacological effects:** Mild water loss, metabolic acidosis (from bicarbonate loss), alkaline urine, lower eye pressure, and lower brain fluid pressure. **Therapeutic uses:** Glaucoma (lowers eye fluid), altitude sickness (the acidosis drives faster breathing to fix the alkalosis of high altitude), pseudotumor cerebri, and correcting metabolic alkalosis. **Adverse effects:** Metabolic acidosis, low potassium, kidney stones (calcium phosphate forms in alkaline urine), tingling in the hands and feet (very common), and drowsiness. It is banned in liver cirrhosis because it blocks ammonia clearance and can trigger brain swelling. It is a sulfonamide, so sulfa-allergic patients must be careful.
+**Mechanism:** Blocks carbonic anhydrase in the proximal tubule → lose bicarbonate → alkaline urine, mild self-limiting diuresis. **Uses:** Glaucoma, altitude sickness, and correcting metabolic alkalosis. **Side effects:** Metabolic acidosis, low potassium, kidney stones, tingling; avoid in liver failure.
 
 ---
-
 ## 18. Centrally Acting Adrenergic Drugs: Clonidine and α-Methyldopa
 
 **Definition/Intro**
@@ -832,10 +815,9 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - Both reduce central sympathetic tone via α₂ agonism — different mechanisms to get there
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Both work in the brainstem to turn down sympathetic nerve signals. Clonidine directly turns on alpha-2 receptors there. Methyldopa is a prodrug that gets changed into alpha-methyl-norepinephrine inside nerve cells, and that fake transmitter turns on the same alpha-2 receptors in the brain. The result is lower heart rate, lower cardiac output, and relaxed blood vessels. **Therapeutic uses:** Methyldopa is the number-one drug of choice for high blood pressure in pregnancy because it has the longest safety record. Clonidine is used for high blood pressure, opioid and alcohol withdrawal (calms the sympathetic storm), and ADHD as a second-line option. **Adverse effects:** Both cause sleepiness, dry mouth, slow heart rate, and low blood pressure on standing. Clonidine's big danger is rebound high blood pressure if stopped suddenly, so you must always taper it. Methyldopa's unique problem is Coombs-positive hemolytic anemia; up to 20% get a positive Coombs test but only about 5% get actual red blood cell breakdown. Methyldopa can also cause liver damage and a lupus-like reaction.
+**Mechanism:** Both are central alpha-2 agonists → less sympathetic outflow → lower BP. **Uses:** Methyldopa is the go-to in pregnancy; clonidine also for opioid withdrawal and ADHD. **Side effects:** Sedation, dry mouth; methyldopa → Coombs-positive haemolytic anaemia; clonidine → rebound hypertension if stopped suddenly.
 
 ---
-
 ## 19. Vasodilators: Hydralazine and Minoxidil
 
 **Definition/Intro**
@@ -875,7 +857,7 @@ Loop diuretics are the **most potent (high-ceiling)** diuretics; they act on the
 - **Hydralazine + ISDN** = mortality benefit in Black patients with HFrEF (A-HeFT trial)
 
 **🗣️ 30–60 sec oral answer**
-Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxes arteriolar smooth muscle through mechanisms involving nitric oxide, while minoxidil opens potassium-ATP channels causing arteriolar hyperpolarization and relaxation. Both cause significant reflex tachycardia and fluid retention, so they must be given with a beta-blocker and a diuretic — the classic "triple therapy." Hydralazine's most important toxicity is drug-induced lupus with anti-histone antibodies, which is dose-dependent and more common in slow acetylators — it spares the kidneys and reverses on discontinuation. It has a special role combined with isosorbide dinitrate in Black patients with heart failure, where this combination reduces mortality. Minoxidil's signature side effects are hypertrichosis, which led to its topical use for baldness, and pericardial effusion. Minoxidil is reserved for severe, refractory hypertension because of its potency and side-effect profile.
+**Mechanism:** Direct artery dilators — hydralazine via nitric oxide, minoxidil opens K channels. **Uses:** Hydralazine + nitrate helps heart failure in Black patients; minoxidil for severe resistant BP (and topical for hair). **Side effects:** Both cause reflex fast heart and fluid retention (give with beta-blocker + diuretic); hydralazine → drug-induced lupus; minoxidil → excess hair growth.
 
 # Part II — Drugs Affecting the Central Nervous System
 
@@ -909,11 +891,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Dyskinesias appear with chronic use; "on–off" fluctuations worsen over years.
   - Levodopa treats symptoms, not disease progression.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Levodopa is the direct building block of dopamine — it crosses the blood-brain barrier and gets turned into dopamine inside the brain, replacing what is missing in Parkinson disease. Carbidopa blocks this conversion outside the brain so more levodopa reaches the CNS. **Pharmacokinetics:** Levodopa has a short half-life of 1–2 hours and is quickly absorbed from the gut, but high-protein meals reduce its absorption. Without carbidopa, over 95% is broken down before reaching the brain. **Therapeutic uses:** It is the most effective drug for Parkinson disease, especially for bradykinesia and rigidity. **Adverse effects:** Peripheral side effects include nausea and low blood pressure; central side effects include dyskinesias, on-off fluctuations, and hallucinations. **Interactions:** Non-selective MAO inhibitors are contraindicated because they can cause a hypertensive crisis, and typical antipsychotics block its effect.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Levodopa crosses into the brain and becomes dopamine; carbidopa blocks that conversion outside the brain so more gets in. **Kinetics:** Short half-life; protein meals reduce absorption. **Uses:** Best drug for Parkinson (rigidity, slowness). **Side effects:** Nausea, low BP, dyskinesias, on-off swings, hallucinations. **Interactions:** Avoid non-selective MAO inhibitors (hypertensive crisis).
 
 ---
-
 ## 2. Parkinson — MAO-B Inhibitors (Selegiline, Rasagiline)
 
 - **Mechanism of action**
@@ -939,11 +920,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Rasagiline is preferred over selegiline because it lacks amphetamine metabolites.
   - Never combine with meperidine — serotonin syndrome risk.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Selegiline and rasagiline selectively and irreversibly block MAO-B, the enzyme that breaks down dopamine in the brain, so dopamine stays in the synapse longer. At normal doses they do not touch MAO-A, so the cheese reaction is not a problem. **Pharmacokinetics:** Selegiline is broken down into amphetamine-like metabolites that can cause insomnia; rasagiline has no such metabolites and is better tolerated. Both are irreversible, so the effect lasts until new enzyme is made. **Indication:** Used alone in early Parkinson disease or added to levodopa to reduce wearing-off in later stages. **Adverse effects:** Insomnia with selegiline, nausea, and dizziness. At high doses, selectivity is lost and tyramine-rich foods can cause a hypertensive crisis. They must never be combined with meperidine or SSRIs because of serotonin syndrome risk.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Block MAO-B so dopamine isn't broken down. **Kinetics:** Selegiline makes amphetamine metabolites (insomnia); rasagiline doesn't. **Use:** Early Parkinson or add-on to reduce wearing-off. **Side effects:** Insomnia; avoid meperidine and SSRIs (serotonin syndrome).
 
 ---
-
 ## 3. Parkinson — COMT Inhibitors (Entacapone, Tolcapone)
 
 - **Mechanism of action**
@@ -969,11 +949,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Tolcapone crosses the BBB but carries hepatotoxicity risk — needs LFT monitoring.
   - Orange urine is a harmless but classic board-tested finding.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Entacapone and tolcapone block COMT, the enzyme that breaks down levodopa in the body before it reaches the brain. By stopping this breakdown, more levodopa gets into the CNS. They have no effect on their own and must always be given with levodopa/carbidopa. **Pharmacokinetics:** Entacapone works only outside the brain and is short-acting, given with each levodopa dose. Tolcapone also works inside the brain and lasts longer, but it can cause liver damage. **Indication:** Added to levodopa/carbidopa when patients have wearing-off fluctuations. **Adverse effects:** Diarrhea, nausea, increased dyskinesias, and harmless orange-brown urine. The big concern with tolcapone is fatal liver toxicity, so liver function tests must be monitored regularly. Entacapone is safer and used first.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Block COMT so levodopa lasts longer and more reaches the brain — always add-on to levodopa. **Kinetics:** Entacapone works only peripherally; tolcapone also central. **Side effects:** Diarrhoea, orange urine, more dyskinesia; tolcapone → liver damage (monitor LFTs).
 
 ---
-
 ## 4. Parkinson — Dopamine Agonists
 
 - **Mechanism of action**
@@ -1007,11 +986,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Apomorphine is given SC, not orally; pretreat with antiemetic (NOT ondansetron — profound hypotension).
   - Less dyskinesia than levodopa but also less efficacious for motor symptoms.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Dopamine agonists like pramipexole and ropinirole directly turn on D2 dopamine receptors in the brain, so they do not need the dying neurons to work. **Pharmacokinetics:** Pramipexole is cleared by the kidneys, ropinirole is broken down by the liver via CYP1A2, and apomorphine is given by subcutaneous injection with a rapid onset. **Indication:** Used alone in early Parkinson disease to delay starting levodopa, or added to levodopa in advanced disease. Apomorphine is a rescue drug for sudden off episodes. **Adverse effects:** Nausea, sleepiness, low blood pressure, and hallucinations, especially in older patients. The classic side effect is impulse control disorders like gambling and hypersexuality. Sleep attacks can happen without warning. Ergot-type agonists like bromocriptine also cause fibrosis, so non-ergot drugs are preferred.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Directly stimulate dopamine (D2) receptors, no conversion needed; non-ergot preferred (pramipexole, ropinirole). **Use:** Early Parkinson or add-on. **Side effects:** Nausea, low BP, hallucinations, sleep attacks, and impulse-control problems like gambling.
 
 ---
-
 ## 5. Treatment of Seizures: Classification and Mechanisms
 
 - **Classification of antiseizure drugs by mechanism**
@@ -1035,11 +1013,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Carbamazepine can worsen absence and myoclonic seizures.
   - Status epilepticus first-line = IV lorazepam.
 
-**30–60 sec oral answer**
-**Classification:** Antiseizure drugs are grouped into sodium channel blockers like phenytoin and carbamazepine, T-type calcium channel blockers like ethosuximide, GABA enhancers like benzodiazepines and vigabatrin, glutamate blockers like perampanel, and SV2A binders like levetiracetam. Valproic acid uses multiple mechanisms and has the broadest spectrum. **Mechanisms of action:** Sodium channel blockers lock the channel in its inactive state to stop repetitive firing. Ethosuximide blocks T-type calcium currents in thalamic neurons, which is why it works for absence seizures only. Benzodiazepines increase the frequency of chloride channel opening at GABA-A receptors. Levetiracetam binds SV2A on synaptic vesicles to reduce neurotransmitter release. For focal seizures, carbamazepine is first-line. For absence, ethosuximide is the drug of choice. For status epilepticus, IV lorazepam is first-line.
+**🗣️ 30–60 sec oral answer**
+**Mechanisms:** Four ways — block sodium channels (phenytoin, carbamazepine), block T-type calcium (ethosuximide for absence), boost GABA (benzodiazepines, barbiturates), or cut glutamate. **By type:** Focal → carbamazepine/lamotrigine; absence → ethosuximide; broad-spectrum → valproate; status epilepticus → IV lorazepam first.
 
 ---
-
 ## 6. Carbamazepine
 
 - **Mechanism of action**
@@ -1068,11 +1045,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Causes SIADH/hyponatremia — unique among antiseizure drugs.
   - A potent CYP inducer — always check drug interactions.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Carbamazepine blocks sodium channels in their inactive state, so neurons cannot fire over and over again. It only stops the fast repetitive firing in seizure foci and does not affect normal brain activity. **Pharmacokinetics:** The most important thing is autoinduction — it speeds up its own breakdown by turning on CYP3A4. So the half-life drops from about 36 hours down to 12–17 hours over a few weeks, and the dose must be raised. It is a strong enzyme inducer, so it lowers levels of many other drugs like oral contraceptives and warfarin. **Adverse effects:** Common ones are double vision, blurred vision, and ataxia. Serious ones include aplastic anemia, SIADH causing low sodium, and Stevens-Johnson syndrome, which is linked to HLA-B*1502 — you must screen for this gene in patients of Asian descent before prescribing. It can also make absence seizures worse.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Blocks sodium channels. **Kinetics:** Induces its own metabolism (autoinduction) and is a strong CYP inducer. **Side effects:** Double vision, ataxia, low sodium (SIADH), aplastic anaemia, and SJS — screen HLA-B*1502 in Asian patients.
 
 ---
-
 ## 7. Valproic Acid
 
 - **Mechanism of action**
@@ -1101,11 +1077,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Enzyme inhibitor (unlike carbamazepine which is an inducer).
   - Fatal hepatotoxicity in children <2 years — boxed warning.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Valproic acid works through three mechanisms at once — it blocks sodium channels, blocks T-type calcium channels, and raises GABA levels in the brain. This is why it has the broadest spectrum of any antiseizure drug. **Pharmacokinetics:** It is well absorbed by mouth and is 90% protein-bound. Unlike carbamazepine, it is a CYP enzyme inhibitor, so it raises the levels of other drugs. It can also push phenytoin off albumin, raising free phenytoin levels. **Adverse effects:** The two most critical are neural tube defects like spina bifida, making it absolutely contraindicated in pregnancy, and fatal liver toxicity in children under 2 on multiple drugs. Other side effects include nausea, weight gain, hair loss, low platelets, tremor, and pancreatitis.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Blocks sodium and T-type calcium channels and raises GABA — the broadest antiseizure drug. **Kinetics:** Enzyme inhibitor, highly protein-bound. **Side effects:** Liver toxicity (worst in kids under 2), neural tube defects (avoid in pregnancy), weight gain, hair loss, tremor.
 
 ---
-
 ## 8. Phenytoin
 
 - **Mechanism of action**
@@ -1135,11 +1110,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Gingival hyperplasia + hirsutism = phenytoin (classic exam combo).
   - Highly protein-bound + CYP inducer = interaction-heavy drug.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Phenytoin blocks sodium channels in the inactive state, stopping neurons from firing rapidly over and over. **Pharmacokinetics:** The key concept is zero-order kinetics — at normal doses, the liver enzymes are already full, so a small dose increase causes a big jump in blood levels and can quickly cause toxicity. It is 90% protein-bound and a CYP inducer, so it lowers levels of many other drugs. For IV use, fosphenytoin is preferred to avoid heart problems from the solvent. **Adverse effects:** The first sign of toxicity is nystagmus, then double vision and ataxia. Classic chronic effects are gingival hyperplasia, hirsutism, megaloblastic anemia from blocking folate, and osteomalacia from breaking down vitamin D. It also causes fetal hydantoin syndrome in pregnancy.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Blocks sodium channels. **Kinetics:** Zero-order — a small dose rise causes a big jump; CYP inducer, highly protein-bound. **Side effects:** Nystagmus first, then ataxia; gum overgrowth, hirsutism, megaloblastic anaemia, fetal hydantoin syndrome.
 
 ---
-
 ## 9. Gabapentin
 
 - **Mechanism of action**
@@ -1164,11 +1138,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Renally cleared — dose-adjust in kidney disease.
   - Also used for neuropathic pain and postherpetic neuralgia (major off-label use).
 
-**30–60 sec oral answer**
-**Mechanism of action:** Gabapentin binds the alpha-2-delta subunit of voltage-gated calcium channels, which reduces calcium entry and lowers the release of excitatory transmitters. Despite its name, it does NOT act on GABA receptors at all. **Pharmacokinetics:** It is not protein-bound and is not broken down by the liver — it is removed unchanged by the kidneys. This means it has almost no drug interactions, which makes it great for patients on many medicines. Absorption happens through the L-amino acid transporter and is saturable, so higher doses do not absorb as well. Dose must be lowered in kidney disease. **Adverse effects:** Drowsiness, dizziness, ataxia, swelling in the legs, and weight gain. Overall it is well tolerated with few serious problems.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Binds the alpha-2-delta calcium channel subunit — despite the name it does NOT act on GABA. **Kinetics:** Not metabolised, kidney-cleared, no drug interactions. **Side effects:** Sedation, dizziness, weight gain, ankle swelling; also used for nerve pain.
 
 ---
-
 ## 10. Zolpidem, Zaleplon, Ramelteon, Melatonin
 
 - **Mechanism of action**
@@ -1198,11 +1171,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Ramelteon = no abuse potential, not a controlled substance — safe in substance abuse patients.
   - Zolpidem complex sleep behaviors (sleep-driving) is a boxed warning.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Zolpidem and zaleplon selectively bind the alpha-1 subunit of the GABA-A receptor, giving a sleep effect without the muscle relaxation or anti-anxiety effects of benzodiazepines. Ramelteon and melatonin activate MT1 and MT2 melatonin receptors to help the brain's sleep-wake clock. **Pharmacokinetics:** Zolpidem has a half-life of 2–3 hours. Zaleplon has an ultra-short half-life of about 1 hour, so it only helps with falling asleep. Ramelteon goes through heavy first-pass metabolism and has no abuse potential, so it is not a controlled substance. **Indication:** All four are used for short-term insomnia, mainly trouble falling asleep. Ramelteon is the best choice for patients with a history of drug abuse. **Adverse effects:** Zolpidem can cause complex sleep behaviors like sleep-driving and sleep-eating, which carry a boxed warning. Lower doses are needed in women. Zaleplon causes fewer next-day effects. Ramelteon may cause dizziness but has no dependence risk.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Zolpidem and zaleplon hit GABA-A alpha-1 (sleep only); ramelteon and melatonin are melatonin-receptor agonists. **Use:** Short-term insomnia; ramelteon is safe in addiction (no abuse). **Kinetics:** Zaleplon is ultra-short (onset only). **Side effects:** Zolpidem → sleep-walking/driving.
 
 ---
-
 ## 11. Benzodiazepines
 
 - **Mechanism of action**
@@ -1245,11 +1217,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Flumazenil reverses BZ overdose but risks seizures in dependent patients.
   - Safer than barbiturates in overdose — cannot directly open the Cl- channel without GABA.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Benzodiazepines bind a special site on the GABA-A receptor and increase the frequency of chloride channel opening when GABA is present. They need GABA to work, which is why they are safer than barbiturates in overdose. **Pharmacokinetics:** They range from ultra-short-acting like midazolam to long-acting like diazepam. The LOT drugs — lorazepam, oxazepam, temazepam — skip liver oxidation and go straight to glucuronidation, making them safer in liver disease and the elderly. **Pharmacological effects:** They are anxiolytic, sedative, anticonvulsant, muscle relaxant, and cause memory loss. **Therapeutic uses:** Anxiety disorders, short-term insomnia, status epilepticus where IV lorazepam is first-line, alcohol withdrawal using diazepam or chlordiazepoxide, and procedural sedation with midazolam. **Dependence:** Tolerance builds to the sedative effect but less to the anti-anxiety effect. Stopping suddenly can cause rebound anxiety, insomnia, and even seizures — always taper. Flumazenil reverses overdose but can trigger seizures in chronic users.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Boost GABA by increasing the frequency of chloride channel opening (barbiturates increase duration). **Effects/uses:** Anti-anxiety, sedative, anticonvulsant, muscle relaxant — used for anxiety, insomnia, status epilepticus, alcohol withdrawal. **Dependence:** Tolerance and withdrawal (rebound anxiety, seizures) — taper; reverse overdose with flumazenil.
 
 ---
-
 ## 12. Opioids: Classification and MOA
 
 - **Classification**
@@ -1282,11 +1253,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Miosis and constipation — two effects to which tolerance does NOT develop.
   - Mixed agonist-antagonists can precipitate withdrawal in opioid-dependent patients.
 
-**30–60 sec oral answer**
-**Classification:** Opioids fall into five groups — strong agonists like morphine and fentanyl, moderate agonists like codeine, mixed agonist-antagonists like pentazocine, partial agonists like buprenorphine, and pure antagonists like naloxone. **Mechanism of action:** They bind Gi-coupled opioid receptors. The mu receptor is the most important — it gives pain relief, euphoria, respiratory depression, small pupils, and constipation. Kappa gives spinal pain relief and dysphoria. At the cell level, they lower cAMP, open potassium channels to quiet the neuron, and close calcium channels to stop transmitter release. **Pharmacological effects:** Pain relief, euphoria, respiratory depression, pinpoint pupils, cough suppression, and constipation. Respiratory depression is the number one cause of death in overdose. Tolerance builds to most effects but NOT to small pupils and constipation. Mixed agonist-antagonists can start withdrawal in someone already dependent on a full agonist.
+**🗣️ 30–60 sec oral answer**
+**Classes:** Strong agonists (morphine, fentanyl), weak (codeine), mixed (pentazocine), partial (buprenorphine), antagonists (naloxone). **Mechanism:** Activate Gi-coupled mu/kappa/delta receptors → less cAMP, open K, close Ca → block pain. **Effects:** Pain relief, euphoria, respiratory depression, pinpoint pupils, constipation.
 
 ---
-
 ## 13. Opioids — Strong Agonists — Morphine: MOA and PK
 
 - **Mechanism of action**
@@ -1309,11 +1279,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Low lipophilicity compared to fentanyl → slower BBB penetration.
   - Glucuronidation (NOT CYP-mediated) — fewer drug interactions than expected.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Morphine is the classic full mu-receptor agonist. It activates Gi-coupled receptors, which lowers cAMP, opens potassium channels to quiet the neuron, and closes calcium channels to block pain signals. It works in the spinal cord and also turns on the brain's own pain-blocking pathways from the periaqueductal gray. **Pharmacokinetics:** Oral bioavailability is only about 25% because of heavy first-pass metabolism in the liver. It is broken down by glucuronidation, not CYP enzymes. The key metabolite is morphine-6-glucuronide, which is actually stronger than morphine itself — in kidney failure, M6G builds up and can cause dangerously long respiratory depression. Morphine has low fat solubility, so it crosses the blood-brain barrier more slowly than fentanyl. The half-life is about 2–3 hours.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Full mu-receptor agonist — blocks pain in the spinal cord and switches on descending pain control. **Kinetics:** Low oral bioavailability (~25%, big first-pass); active metabolite M6G builds up in kidney failure and can cause prolonged respiratory depression.
 
 ---
-
 ## 14. Opioids — Strong Agonists — Morphine: Actions, Uses, Adverse Effects, Tolerance, Interactions
 
 - **Actions (pharmacological effects)**
@@ -1358,11 +1327,10 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Morphine is used in acute pulmonary edema (venodilation reduces preload).
   - CNS depressant combinations are the most dangerous interactions (synergistic respiratory depression).
 
-**30–60 sec oral answer**
-**Actions:** Morphine causes pain relief, euphoria, respiratory depression, pinpoint pupils, severe constipation, nausea, and histamine release leading to itching and low blood pressure. **Therapeutic uses:** Severe acute and chronic pain, cancer pain, and acute pulmonary edema where it opens up veins and reduces the load on the heart. **Adverse effects:** Respiratory depression is the most dangerous and the main cause of death in overdose. Constipation is the most common and needs laxatives. Other problems include nausea, sedation, urinary retention, and itching from histamine. **Tolerance and physical dependence:** Tolerance builds to pain relief, euphoria, and respiratory depression, but NOT to constipation and NOT to small pupils. Withdrawal causes runny nose, diarrhea, goosebumps, and muscle pain — it is very uncomfortable but NOT fatal, unlike alcohol or barbiturate withdrawal. **Drug interactions:** The most dangerous combination is with other CNS depressants like alcohol and benzodiazepines, which add up to cause fatal respiratory depression. Mixed agonist-antagonists must be avoided in dependent patients because they trigger withdrawal.
+**🗣️ 30–60 sec oral answer**
+**Actions:** Pain relief, euphoria, respiratory depression, pinpoint pupils, constipation. **Uses:** Severe pain, cancer pain, pulmonary oedema. **Side effects:** Respiratory depression (kills in overdose) and constipation. **Tolerance/dependence:** Tolerance to most effects but NOT pupils or constipation; withdrawal is nasty but not deadly. **Interactions:** Dangerous with other CNS depressants.
 
 ---
-
 ## 15. Opioid Antagonists: Naloxone and Naltrexone
 
 - **Mechanism of action**
@@ -1401,8 +1369,8 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
   - Naloxone's short duration is a clinical pitfall — long-acting opioids (methadone, fentanyl patches) can outlast it, requiring repeated doses or an infusion.
   - Naltrexone is also used for ALCOHOL dependence — not just opioids.
 
-**30–60 sec oral answer**
-**Mechanism of action:** Both naloxone and naltrexone are competitive blockers at mu opioid receptors. They push opioid agonists off the receptor and reverse all their effects — pain relief, respiratory depression, euphoria, and small pupils. They have no agonist activity of their own. **Uses:** Naloxone is the drug of choice for emergency opioid overdose reversal — given IV, IM, or as a nasal spray, it works in minutes. Naltrexone is used long-term to prevent relapse in opioid addiction and is also approved for alcohol use disorder. It comes as a daily pill or a monthly injection. **Key differences:** Naloxone is short-acting, only 30–90 minutes, so you may need to re-dose if the opioid lasts longer. It has very low oral bioavailability, so it is given by injection or nasal spray. Naltrexone lasts 24–72 hours orally and has good oral bioavailability. Both can trigger a sudden withdrawal syndrome in someone who is opioid-dependent. Naltrexone can also cause liver damage at high doses.
+**🗣️ 30–60 sec oral answer**
+**Mechanism:** Pure mu-receptor blockers, no agonist effect. **Uses:** Naloxone = emergency overdose reversal (IV/nasal, short-acting, may need repeating); naltrexone = long-acting oral/monthly, for opioid and alcohol relapse prevention. **Side effects:** Trigger withdrawal in dependent patients; naltrexone can harm the liver.
 
 # Part III — Principles of Antimicrobial Therapy
 
@@ -1422,10 +1390,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Renal dosing adjustment is the most commonly tested patient factor.
 
 **🗣️ 30–60 sec oral answer**
-**Identifying the organism:** We use Gram stain and culture to find out what bug we are dealing with, and we always collect samples before starting any antibiotic. **Empiric therapy:** While we wait for results, we start a broad-spectrum drug based on the most likely bug for that type of infection, then narrow down once cultures come back. **Susceptibility:** The MIC test tells us the lowest drug level that stops the bug, so we know if it is sensitive or resistant. **Site of infection:** The drug must actually reach the infected area — for example, most drugs cannot cross the blood-brain barrier unless the meninges are inflamed. **Patient factors:** We check kidney and liver function, pregnancy status, allergies, and immune state before choosing. **Safety:** We always pick the least toxic drug that still works.
+**Identify:** Gram stain and culture, taken before antibiotics. **Empiric:** Start broad for the likely bug, then narrow. **Susceptibility:** MIC shows sensitive vs resistant. **Site:** Drug must reach it — CNS only if meninges are inflamed. **Patient:** Kidney/liver, pregnancy, allergy. **Safety:** Pick the least toxic that works.
 
 ---
-
 ## 2. Determinants of Rational Dosing
 
 - **Concentration-dependent killing**: Bactericidal activity increases as drug concentration rises above the MIC. The key parameter is **peak/MIC ratio (Cmax/MIC)**. Goal: give high doses, less frequently. Examples: **aminoglycosides**, **fluoroquinolones**, **daptomycin**.
@@ -1439,10 +1406,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Fluoroquinolones are both concentration-dependent AND have a long PAE.
 
 **🗣️ 30–60 sec oral answer**
-**Concentration-dependent killing:** Some drugs like aminoglycosides and fluoroquinolones kill better the higher the peak level goes above the MIC, so we give big doses less often. **Time-dependent killing:** Other drugs like beta-lactams need their level to stay above the MIC for as long as possible, so we give them frequently or by continuous drip. **Post-antibiotic effect:** This means bacteria stay suppressed even after the drug level drops below the MIC. Aminoglycosides and fluoroquinolones have a long PAE, which is why we can give aminoglycosides once a day. Beta-lactams have almost no PAE against gram-negatives, so they need constant dosing.
+**Concentration-dependent** (aminoglycosides, fluoroquinolones): a higher peak kills more → big once-daily doses. **Time-dependent** (beta-lactams): keep the level above MIC → frequent dosing. **Post-antibiotic effect:** killing continues after levels drop, which lets aminoglycosides be given once daily.
 
 ---
-
 ## 3. Chemotherapeutic Spectrum
 
 - **Narrow-spectrum antibiotics**: Active against a limited range of organisms. Useful when the pathogen is identified. Examples: **isoniazid** (Mycobacterium tuberculosis only), **vancomycin** (gram-positives only), **penicillin G** (mainly gram-positives and some gram-negatives).
@@ -1456,10 +1422,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Extended-spectrum = aminopenicillins is a classic exam association.
 
 **🗣️ 30–60 sec oral answer**
-**Narrow-spectrum:** These drugs hit only a small group of bugs — for example, isoniazid only kills TB, and vancomycin only kills gram-positives. We use them when we know exactly what the pathogen is, because they cause less harm to normal flora. **Extended-spectrum:** These are modified narrow-spectrum drugs that cover extra bugs — like ampicillin and amoxicillin, which add some gram-negative coverage on top of gram-positive. **Broad-spectrum:** Drugs like tetracyclines, fluoroquinolones, and carbapenems kill a wide range of both gram-positives and gram-negatives. They are great for empiric therapy, but the downside is they wipe out normal flora and can cause superinfections like C. difficile colitis or yeast infections, and they push bacteria toward resistance. The rule is: always use the narrowest spectrum that works.
+**Narrow** (e.g. vancomycin): few bugs, best when the pathogen is known. **Extended** (ampicillin): adds some gram-negatives. **Broad** (tetracyclines, carbapenems): many bugs, good for empiric use but risk superinfection like C. difficile.
 
 ---
-
 ## 4. Combinations of Antimicrobial Therapy
 
 - **Advantages**:
@@ -1485,10 +1450,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Resistance transfer via plasmids is the most clinically significant mechanism.
 
 **🗣️ 30–60 sec oral answer**
-**Advantages:** We combine antibiotics for synergy — for example, penicillin breaks open the wall so gentamicin can get inside the bug in enterococcal endocarditis. We also combine to prevent resistance, like the four-drug TB regimen, and to broaden coverage when we do not know the pathogen yet. **Disadvantages:** The main risk is antagonism — a bacteriostatic drug like tetracycline can block the killing power of a bactericidal drug like penicillin, because penicillin needs the bug to be actively growing. Combinations also raise cost, side effects, and can select for multi-drug-resistant bugs. **Drug resistance:** Resistance can be natural, like Mycoplasma lacking a cell wall so beta-lactams cannot work, or acquired through plasmids and mutations — the main ways are enzyme destruction of the drug, changing the drug target, losing porins, and pumping the drug out.
+**Why combine:** Synergy (penicillin + gentamicin), prevent resistance (TB regimen), broaden cover. **Downsides:** Antagonism (static + cidal drug), cost, more side effects. **Resistance:** Natural or acquired via mutation/plasmids — enzymes, target change, less entry, efflux pumps.
 
 ---
-
 ## 5. Prophylactic Antibiotics; Complications of Antibiotic Therapy
 
 - **Prophylactic antibiotics**:
@@ -1510,10 +1474,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Prophylaxis ≠ treatment — short course, targeted, before exposure.
 
 **🗣️ 30–60 sec oral answer**
-**Prophylactic antibiotics:** We give these before an expected exposure to stop infection from happening. In surgery, one dose of cefazolin 30 to 60 minutes before cutting is the standard. For medical prophylaxis, TMP-SMX prevents Pneumocystis in HIV patients, penicillin V prevents rheumatic fever from coming back, and isoniazid is for latent TB. **Complications of antibiotic therapy:** The main ones are hypersensitivity — most common with penicillins, up to anaphylaxis; direct toxicity like aminoglycoside kidney and ear damage; superinfection, especially C. difficile colitis from broad-spectrum drugs, which we treat with oral vancomycin or fidaxomicin; and selection of resistant bugs like MRSA and ESBL producers from overuse.
+**Prophylaxis:** Prevent infection before exposure — cefazolin 30–60 min before surgery, TMP-SMX for PCP, isoniazid for latent TB. **Complications:** Allergy, direct toxicity, superinfection (C. difficile), and resistance.
 
 ---
-
 ## 6. Penicillins
 
 - **Definition/Intro**: β-Lactam antibiotics; among the oldest and most widely used antimicrobials.
@@ -1557,10 +1520,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - MRSA resistance is due to altered PBP2a (*mecA*), not β-lactamase.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Penicillins bind penicillin-binding proteins and block the cross-linking step of the bacterial cell wall, so the wall gets weak and the bug bursts from osmotic pressure. They are bactericidal. **Spectrum:** Penicillin G and V mainly cover gram-positives and Treponema. Ampicillin and amoxicillin add some gram-negatives like E. coli and H. influenzae. Piperacillin covers Pseudomonas. **Resistance:** The most common way bacteria resist is by making beta-lactamase, which breaks the drug. We fight this with inhibitors like clavulanate. MRSA resists by changing its PBP to PBP2a, which penicillins cannot bind. **Pharmacokinetics:** They are cleared by the kidneys, and probenecid slows that down. Amoxicillin has the best oral absorption. They only cross the blood-brain barrier when the meninges are inflamed. **Adverse reactions:** Allergy is the big one, ranging from rash to life-threatening anaphylaxis. Ampicillin causes a guaranteed rash in patients with mono — that is not a true allergy.
+**Mechanism:** Block PBPs → wall can't cross-link → the bug bursts. **Spectrum:** Gram-positives; broader types add gram-negatives and Pseudomonas. **Resistance:** Beta-lactamase (beat it with clavulanate); altered PBP in MRSA. **Kinetics:** Renal (probenecid prolongs). **Side effects:** Allergy up to anaphylaxis; ampicillin rash in mononucleosis.
 
 ---
-
 ## 7. Cephalosporins
 
 - **Definition/Intro**: β-Lactam antibiotics structurally related to penicillins; classified by generation (1st–5th) with progressively broader gram-negative and narrowing gram-positive coverage.
@@ -1601,10 +1563,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - MTT side chain = bleeding + disulfiram reaction — cefotetan is the classic example.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Same as penicillins — they bind PBPs and block cell wall cross-linking, so the bug bursts. They are bactericidal. **Spectrum:** First generation like cefazolin is best for gram-positives and is the surgical prophylaxis drug. Second generation adds gram-negatives and some anaerobes. Third generation like ceftriaxone is our go-to for meningitis and gonorrhea. Ceftazidime covers Pseudomonas. Fourth generation cefepime covers both gram-positives and Pseudomonas. Fifth generation ceftaroline is the only beta-lactam that kills MRSA. **Resistance:** Bacteria make beta-lactamases, especially ESBLs in gram-negatives, that break the drug. **Pharmacokinetics:** Most are cleared by the kidneys. Ceftriaxone is special — it has the longest half-life, is given once daily, and goes through the bile, which can cause biliary sludge. Third generation and above cross inflamed meninges. **Adverse reactions:** Cross-allergy with penicillin in about 1 to 2 percent of patients. Drugs with the MTT side chain like cefotetan cause bleeding from vitamin K problems and a disulfiram-like reaction with alcohol.
+**Mechanism:** Same as penicillins — block PBPs. **Spectrum:** 1st gen gram-positive → higher gens more gram-negative; ceftriaxone for meningitis/gonorrhoea; ceftaroline is the only one covering MRSA. **Resistance:** Beta-lactamases/ESBL. **Side effects:** Allergy (cross with penicillin), bleeding and a disulfiram reaction with MTT-type drugs.
 
 ---
-
 ## 8. Other β-Lactams — Carbapenems and Monobactams
 
 ### Carbapenems
@@ -1665,10 +1626,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Aztreonam = gram-negative aerobes only + SAFE in penicillin allergy (zero cross-reactivity).
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Both carbapenems and aztreonam work like other beta-lactams — they bind PBPs and block cell wall building, and they are bactericidal. **Spectrum:** Carbapenems like imipenem and meropenem have the broadest spectrum of all beta-lactams — gram-positives, gram-negatives including Pseudomonas, and anaerobes. Ertapenem is the one that does not cover Pseudomonas. Aztreonam only covers gram-negative aerobes, including Pseudomonas, with zero gram-positive or anaerobic activity. **Resistance:** The big threat is carbapenemases like KPC and NDM in CRE bugs. **Pharmacokinetics:** All are given IV. Imipenem must always be paired with cilastatin to stop the kidney enzyme DHP-1 from destroying it. Meropenem crosses the BBB well and is used for meningitis. **Adverse reactions:** Imipenem causes seizures, so never use it for brain infections — use meropenem instead. Aztreonam is the safe choice for penicillin-allergic patients because it has zero cross-reactivity.
+**Carbapenems:** Broadest beta-lactams (gram +/−, anaerobes); imipenem is given with cilastatin and has seizure risk (use meropenem for meningitis); ertapenem misses Pseudomonas. **Aztreonam:** Gram-negative only, and safe in penicillin allergy (no cross-reaction).
 
 ---
-
 ## 9. Vancomycin, Daptomycin, Telavancin
 
 ### Vancomycin
@@ -1729,10 +1689,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Daptomycin + statins = myopathy risk → stop statins.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Vancomycin binds the D-Ala-D-Ala tail on cell wall building blocks and stops the wall from being built — it does not touch PBPs. Daptomycin punches into the cell membrane and makes holes that depolarize and kill the bug. Telavancin does both — it blocks wall synthesis like vancomycin and also disrupts the membrane. **Spectrum:** All three cover gram-positives including MRSA. Daptomycin also covers VRE. Oral vancomycin is used only for C. difficile because it is not absorbed from the gut. **Uses:** Vancomycin IV is for systemic MRSA. Daptomycin is for MRSA bacteremia and skin infections, but never for pneumonia because lung surfactant kills the drug. **Adverse reactions:** Vancomycin causes red man syndrome from fast infusion — that is histamine release, not allergy, so just slow the drip. It also causes kidney and ear damage. Daptomycin causes muscle damage, so check CPK weekly and stop statins. Telavancin is teratogenic, so always do a pregnancy test first.
+**Vancomycin:** Binds D-ala-D-ala, covers gram-positives/MRSA; oral for C. difficile; fast infusion → red-man syndrome. **Daptomycin:** Breaks the membrane, MRSA/VRE, but NOT for pneumonia (surfactant inactivates it); watch CK. **Telavancin:** Dual action, teratogenic.
 
 ---
-
 ## 10. Tetracyclines
 
 - **Definition/Intro**: Broad-spectrum bacteriostatic antibiotics; include **tetracycline**, **doxycycline**, **minocycline**, and the glycylcycline **tigecycline**.
@@ -1773,10 +1732,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Chelation by cations = do not take with milk, antacids, or iron.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Tetracyclines bind the 30S ribosomal subunit and block the tRNA from landing on the A site, so the bug cannot make proteins. They are bacteriostatic. **Spectrum:** Very broad — gram-positives, gram-negatives, and atypicals like Mycoplasma, Chlamydia, and Rickettsia. Doxycycline is first choice for Lyme disease, Rocky Mountain spotted fever, and Chlamydia. **Resistance:** Bacteria pump the drug out using efflux pumps, or they make ribosomal protection proteins that kick the drug off the 30S subunit. **Pharmacokinetics:** Do not take with milk, antacids, or iron because metal ions bind the drug and stop absorption. Doxycycline is the exception among tetracyclines — it goes out through the bile, so it is safe in kidney failure. They build up in teeth and bones. **Adverse reactions:** They stain children's teeth permanently and hurt bone growth, so they are banned in kids under 8 and in pregnancy. Other problems are photosensitivity and Fanconi syndrome from using expired pills.
+**Mechanism:** Block the 30S ribosome (A site), bacteriostatic. **Spectrum:** Broad, incl. atypicals — doxycycline for Lyme, Rickettsia, Chlamydia. **Kinetics:** Chelated by calcium/iron (no dairy/antacids); doxycycline is safe in kidney failure. **Side effects:** Stains teeth/bones — avoid in kids under 8 and pregnancy; photosensitivity.
 
 ---
-
 ## 11. Aminoglycosides
 
 - **Definition/Intro**: Bactericidal antibiotics primarily for serious gram-negative infections; include **gentamicin**, **tobramycin**, **amikacin**, **streptomycin**, **neomycin**.
@@ -1817,10 +1775,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - "Once daily = exploit concentration-dependent killing + long PAE."
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Aminoglycosides bind the 30S subunit permanently and cause the ribosome to misread the mRNA. The faulty proteins get stuck in the membrane and damage it, which is why these drugs are bactericidal — unusual for protein synthesis inhibitors. They need oxygen to enter the bug, so they do not work on anaerobes. **Spectrum:** Mainly aerobic gram-negatives like E. coli and Pseudomonas. They are used together with beta-lactams for synergy in gram-positive endocarditis. **Resistance:** Bacteria make enzymes — acetyltransferases, phosphotransferases — that change the drug so it cannot bind. This is plasmid-mediated. **Pharmacokinetics:** They are not absorbed orally, so we give them IV. They are cleared by the kidneys unchanged, and we monitor trough levels for toxicity and peak levels for efficacy. Once-daily dosing works because of concentration-dependent killing and a long post-antibiotic effect. **Adverse reactions:** Kidney damage is reversible, but ear damage — both hearing loss and vertigo — is irreversible. They can also cause neuromuscular blockade and are banned in pregnancy because they damage the fetal ear nerve.
+**Mechanism:** Irreversibly block the 30S → mRNA misread, bactericidal; need oxygen (no anaerobes). **Spectrum:** Aerobic gram-negatives; synergy with beta-lactams. **Kinetics:** IV only, renal, once-daily. **Side effects:** Nephrotoxicity (reversible) and ototoxicity (permanent); neuromuscular block.
 
 ---
-
 ## 12. Macrolides
 
 - **Definition/Intro**: Bacteriostatic antibiotics with excellent atypical coverage; include **erythromycin**, **azithromycin**, **clarithromycin**.
@@ -1861,10 +1818,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - MLS_B resistance = cross-resistance between macrolides, lincosamides (clindamycin), and streptogramins.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Macrolides bind the 50S ribosomal subunit and block the translocation step, stopping the ribosome from sliding along the mRNA. They are bacteriostatic. **Spectrum:** They cover gram-positives and are first-line for atypical bugs — Mycoplasma, Chlamydia, and Legionella. Azithromycin also covers H. influenzae and is used for community-acquired pneumonia and single-dose Chlamydia treatment. Clarithromycin is part of H. pylori therapy. **Resistance:** The most common way is methylation of 23S rRNA, which also makes the bug resistant to clindamycin and streptogramins — that is MLS-B resistance. **Pharmacokinetics:** Azithromycin has the longest half-life, piles up inside white blood cells, and has very few drug interactions. Erythromycin and clarithromycin are strong CYP3A4 blockers with many interactions — warfarin, statins, and more. **Adverse reactions:** GI upset is the most common, worst with erythromycin because it acts on motilin receptors. All macrolides can prolong QTc and cause torsades de pointes.
+**Mechanism:** Block the 50S (translocation), bacteriostatic. **Spectrum:** Atypicals — Mycoplasma, Chlamydia, Legionella. **Kinetics:** Azithromycin has a long half-life and few interactions; erythro/clarithromycin inhibit CYP3A4. **Side effects:** GI upset (erythromycin), QT prolongation.
 
 ---
-
 ## 13. Chloramphenicol
 
 - **Definition/Intro**: Broad-spectrum bacteriostatic antibiotic; limited use due to serious bone marrow toxicity. Reserved for serious infections when safer alternatives are unavailable.
@@ -1899,10 +1855,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Resistance = acetyltransferase (same enzyme name, different drug from aminoglycoside acetyltransferases).
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Chloramphenicol binds the 50S ribosomal subunit and blocks peptidyl transferase, so no peptide bonds can form. It is mainly bacteriostatic. **Spectrum:** Very broad — gram-positives, gram-negatives, anaerobes, and Rickettsia. It used to be used for meningitis and typhoid fever, but ceftriaxone has mostly replaced it. **Resistance:** Bacteria make an acetyltransferase from a plasmid that breaks down the drug. **Pharmacokinetics:** It absorbs well orally and gets into the CSF even without inflamed meninges. It is broken down in the liver by glucuronidation and inhibits CYP450, so it raises levels of warfarin and phenytoin. **Adverse reactions:** There are two bone marrow problems — a common, dose-related, reversible suppression, and a rare but fatal aplastic anemia that is irreversible and not related to dose. In newborns, the liver cannot glucuronidate the drug, so it builds up and causes gray baby syndrome with cardiovascular collapse.
+**Mechanism:** Blocks the 50S peptidyl transferase. **Spectrum:** Broad, with good CSF entry. **Side effects:** Dose-related reversible marrow suppression, rare fatal aplastic anaemia, and gray baby syndrome in newborns. **Resistance:** Acetyltransferase.
 
 ---
-
 ## 14. Fluoroquinolones
 
 - **Definition/Intro**: Bactericidal broad-spectrum antibiotics; include **ciprofloxacin**, **levofloxacin**, **moxifloxacin**, **norfloxacin**.
@@ -1945,10 +1900,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - Tendon rupture is the hallmark adverse effect — especially with steroids + age > 60.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Fluoroquinolones block DNA gyrase in gram-negatives and topoisomerase IV in gram-positives, so the bug cannot copy or repair its DNA. They are bactericidal with concentration-dependent killing. **Spectrum:** Ciprofloxacin is the best for gram-negatives and Pseudomonas, and it is also used for anthrax. Levofloxacin adds better gram-positive coverage, especially pneumococcus. Moxifloxacin is the broadest — it also covers anaerobes and atypicals — but it does not cover Pseudomonas and is not used for UTIs. **Resistance:** Mainly from mutations in the gyrase or topoisomerase genes, plus efflux pumps. **Pharmacokinetics:** Oral absorption is almost as good as IV. Avoid taking with antacids or milk because metal ions chelate the drug, just like with tetracyclines. Most are cleared by the kidneys, except moxifloxacin which goes through the liver. **Adverse reactions:** The hallmark is Achilles tendon rupture, especially in patients over 60 or on steroids. They damage cartilage, so they are banned in children and pregnancy. They also prolong QTc, especially moxifloxacin, and carry an FDA black box warning for tendinitis, neuropathy, and aortic dissection.
+**Mechanism:** Block DNA gyrase and topoisomerase IV → DNA can't replicate. **Spectrum:** Ciprofloxacin for gram-negatives/Pseudomonas; levo/moxifloxacin add gram-positives. **Kinetics:** Excellent oral absorption; chelated by cations. **Side effects:** Tendon rupture, QT prolongation, cartilage damage — avoid in kids and pregnancy.
 
 ---
-
 ## 15. Sulfonamides
 
 - **Definition/Intro**: Bacteriostatic antibiotics that are structural analogs of **para-aminobenzoic acid (PABA)**; include **sulfamethoxazole**, **sulfadiazine**, **sulfisoxazole**.
@@ -1989,10 +1943,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - SJS/TEN is the most feared hypersensitivity reaction.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Sulfonamides look like PABA, so they trick the enzyme dihydropteroate synthase and block folate synthesis. Bacteria must make their own folate, but humans get it from food — that is why the drug is selective. They are bacteriostatic. **Spectrum:** Broad — gram-positives, gram-negatives, Nocardia, Chlamydia, and Toxoplasma. They are most often used together with trimethoprim. **Resistance:** Bacteria can overproduce PABA to outcompete the drug, or mutate the target enzyme so the drug cannot bind. **Pharmacokinetics:** They absorb well orally and spread widely, crossing both the placenta and the BBB. They are broken down in the liver by acetylation, and these acetylated forms do not dissolve well, which causes crystalluria. They also knock bilirubin off albumin, which can cause kernicterus in newborns. **Adverse reactions:** The scariest is Stevens-Johnson syndrome and TEN. Crystalluria is prevented by drinking lots of water and making the urine alkaline. They cause hemolytic anemia in G6PD-deficient patients. They are banned in neonates and late pregnancy.
+**Mechanism:** Block dihydropteroate synthase → no folate. **Spectrum:** Broad; often paired with trimethoprim. **Side effects:** SJS, crystalluria (hydrate), haemolysis in G6PD deficiency, and kernicterus — avoid in neonates and late pregnancy.
 
 ---
-
 ## 16. Trimethoprim
 
 - **Definition/Intro**: Bacteriostatic antibiotic that inhibits a different step in folate synthesis than sulfonamides; most commonly used in combination with sulfamethoxazole (TMP-SMX).
@@ -2029,10 +1982,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - TMP causes hyperkalemia via ENaC blockade — frequently tested.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Trimethoprim blocks dihydrofolate reductase, the enzyme that turns dihydrofolic acid into tetrahydrofolic acid, so the bug cannot make the building blocks for DNA. It is bacteriostatic alone but becomes bactericidal when combined with sulfamethoxazole. It has a much higher affinity for the bacterial enzyme than the human one, so it is selective. **Spectrum:** Gram-positives and gram-negatives. On its own it is mainly used for simple UTIs. **Resistance:** Bacteria change or overproduce their dihydrofolate reductase through plasmid genes. **Pharmacokinetics:** It absorbs well orally and concentrates in prostate and vaginal fluid, which is great for urinary and prostate infections. It crosses the BBB. One important trick: it blocks creatinine secretion in the kidney tubule, so creatinine levels go up on the lab — but that is not real kidney damage. **Adverse reactions:** It causes megaloblastic anemia from folate depletion — treat with leucovorin, not folic acid. It also causes hyperkalemia by blocking ENaC channels in the kidney, like amiloride. It is banned in early and late pregnancy because it blocks folate.
+**Mechanism:** Blocks dihydrofolate reductase (the step after sulfonamides). **Use:** UTIs; combined with sulfamethoxazole. **Side effects:** Megaloblastic anaemia (give leucovorin), high potassium, and a fake creatinine rise (not real kidney damage).
 
 ---
-
 ## 17. Co-trimoxazole (TMP-SMX)
 
 - **Definition/Intro**: Fixed-dose combination of **trimethoprim (TMP)** + **sulfamethoxazole (SMX)** in a 1:5 ratio; achieves synergistic bactericidal activity through sequential folate pathway blockade.
@@ -2079,7 +2031,7 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - TMP-SMX is the oral MRSA drug for community-acquired skin infections.
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** SMX blocks step one of folate synthesis by hitting dihydropteroate synthase, and TMP blocks step two by hitting dihydrofolate reductase. Each one alone is bacteriostatic, but together this double blockade makes them synergistic and bactericidal. **Spectrum:** Broad — gram-positives, gram-negatives, and Nocardia. It is the drug of choice for Pneumocystis pneumonia in HIV patients, both for prevention and treatment. It is also first-line for simple UTIs and community-acquired MRSA skin infections. **Resistance:** Bacteria can change either target enzyme, overproduce PABA, or reduce permeability — combining both drugs slows resistance but does not stop it completely. **Pharmacokinetics:** Both parts absorb well orally and have similar half-lives, which keeps the synergistic ratio steady. They both cross the BBB and placenta, and they knock bilirubin off albumin just like sulfonamides alone. **Adverse reactions:** You get the side effects of both drugs together — SJS and hypersensitivity from the sulfonamide side, which hits up to 50 percent of HIV patients; crystalluria; plus megaloblastic anemia and hyperkalemia from the TMP side. It is banned in neonates, late pregnancy, and G6PD deficiency.
+**Mechanism:** Sulfamethoxazole + trimethoprim block two folate steps → synergistic and bactericidal. **Uses:** Drug of choice for PCP (treat and prevent), UTIs, community MRSA, Nocardia. **Side effects:** Both drugs' effects — allergy/SJS (common in HIV), marrow suppression, high potassium; avoid in neonates/pregnancy.
 
 # Part IV — Drugs Used to Treat Endocrine Disorders
 
@@ -2111,10 +2063,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - I-131 is contraindicated in pregnancy and lactation
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Thioamides like methimazole and PTU block thyroid peroxidase so the gland cannot make T3 and T4; PTU also stops T4 from turning into T3 in the body. Iodides at high doses shut down organification temporarily through the Wolff-Chaikoff effect. Radioactive iodine-131 is taken up by thyroid cells and destroys them with beta radiation. Beta-blockers like propranolol control the fast heart rate and tremor while we wait for the other drugs to kick in. **Uses:** Methimazole is first-line for Graves' disease; PTU is preferred only in the first trimester and in thyroid storm; iodides are used before surgery to shrink the gland; I-131 is the go-to definitive treatment but is never given in pregnancy. **Adverse effects:** The most feared side effect of thioamides is agranulocytosis — tell the patient to come in if they get a sore throat or fever. PTU carries a boxed warning for liver damage. I-131 almost always causes hypothyroidism afterward, and propranolol can cause bradycardia and bronchospasm.
+**Mechanism:** Thioamides (methimazole, PTU) block thyroid peroxidase — PTU also blocks T4→T3; iodides shrink the gland before surgery; radioactive iodine destroys it; beta-blockers control symptoms. **Uses:** Methimazole first-line; PTU in first trimester and thyroid storm; I-131 never in pregnancy. **Side effects:** Agranulocytosis (watch for sore throat/fever); PTU → liver damage; I-131 → hypothyroidism.
 
 ---
-
 ## 2. Treatment of Hypothyroidism
 
 **Definition/Intro**
@@ -2147,10 +2098,9 @@ Hydralazine and minoxidil are direct arteriolar vasodilators. Hydralazine relaxe
 - T4 has a 7-day half-life → takes weeks to reach steady state
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Levothyroxine is synthetic T4 that gets changed into the active T3 in the body; T3 goes into the cell nucleus, binds thyroid receptors, and turns on genes that raise the metabolic rate. **Pharmacokinetics:** It has a very long half-life of about 7 days, so we give it once a day, but it takes 6 to 8 weeks to reach steady levels — that is when we recheck TSH. It must be taken on an empty stomach because calcium, iron, and antacids block its absorption. **Dosing notes:** Always start low, especially in elderly or heart patients, because giving too much too fast can trigger chest pain or abnormal heart rhythms. **Adverse effects:** Side effects are basically signs of too much thyroid hormone — fast heart rate, tremor, weight loss, and with long-term over-dosing, bone loss and atrial fibrillation.
+**Mechanism:** Levothyroxine (T4) converts to active T3. **Kinetics:** Take on an empty stomach (calcium/iron block it); long half-life; check TSH at 6–8 weeks; start low in the elderly and heart disease. **Side effects:** Over-dose looks like hyperthyroidism — palpitations, tremor; long-term → osteoporosis.
 
 ---
-
 ## 3. Insulin and Insulin Analogs
 
 **Definition/Intro**
@@ -2192,10 +2142,9 @@ Insulin is a peptide hormone that lowers blood glucose; exogenous insulin is ess
 - Hypoglycemia and weight gain are the two big adverse effects of all insulins
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Insulin binds a tyrosine kinase receptor on cells, which turns on the PI3K-Akt pathway and moves GLUT4 channels to the surface so glucose can enter muscle and fat cells. It also tells the liver to stop making glucose and promotes storage of glycogen, fat, and protein. **Pharmacokinetics:** Rapid-acting insulins like lispro and aspart start working in 15 minutes and cover meals. Regular insulin takes 30 to 60 minutes and is the only type you can give IV — important for DKA and high potassium. NPH is intermediate, peaking around 4 to 10 hours. Glargine and detemir are long-acting with no real peak, giving steady basal coverage for 20 to 24 hours. **Adverse effects:** The biggest danger is hypoglycemia. Other problems are weight gain, lipodystrophy at injection sites if you do not rotate them, and hypokalemia because insulin pushes potassium into cells.
+**Mechanism:** Binds its tyrosine-kinase receptor → GLUT4 pulls glucose into cells and builds glycogen/fat. **Kinetics:** Rapid (lispro/aspart) for meals, regular is the only IV one (DKA), NPH intermediate, glargine/detemir long and peakless. **Side effects:** Hypoglycaemia, weight gain, low potassium, injection-site lipodystrophy.
 
 ---
-
 ## 4. Amylin Analogs (Pramlintide)
 
 **Definition/Intro**
@@ -2223,10 +2172,9 @@ Insulin is a peptide hormone that lowers blood glucose; exogenous insulin is ess
 - Cannot be mixed in the same syringe as insulin
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Pramlintide is a man-made copy of amylin, a hormone normally released with insulin from beta cells. It does three things: it slows down stomach emptying, it stops glucagon from being released after meals, and it makes the brain feel full so the patient eats less. **Pharmacokinetics:** It is injected under the skin before each meal and cannot be mixed with insulin in the same syringe. It is absorbed quickly and has a short duration, so it only covers mealtimes. **Adverse effects:** Nausea is the most common problem and gets better if you increase the dose slowly. The most dangerous risk is hypoglycemia, especially in type 1 diabetics — you must cut the mealtime insulin dose in half when you start pramlintide.
+**Mechanism:** Amylin analog — slows gastric emptying, lowers glucagon, increases fullness. **Kinetics:** Injected before meals, not mixed with insulin. **Side effects:** Nausea and hypoglycaemia — cut mealtime insulin by half when starting.
 
 ---
-
 ## 5. Sulfonylureas
 
 **Definition/Intro**
@@ -2258,10 +2206,9 @@ Sulfonylureas are oral insulin secretagogues that stimulate endogenous insulin r
 - Weight gain distinguishes sulfonylureas from metformin (weight-neutral) and GLP-1 agonists (weight loss)
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Sulfonylureas bind the SUR1 part of the K-ATP channel on beta cells, which closes the channel, lets the membrane depolarize, calcium rushes in, and insulin is released. This happens whether blood sugar is high or not, which is why they can cause hypoglycemia. **Pharmacokinetics:** We split them into first generation like chlorpropamide and second generation like glyburide, glipizide, and glimepiride — second generation is preferred. They are taken by mouth, broken down in the liver, and cleared by the kidneys. Glyburide has active metabolites that build up in kidney failure, so glipizide is the safer choice in those patients. **Adverse effects:** Hypoglycemia is the most important side effect, worst with glyburide and chlorpropamide. Weight gain is common. Chlorpropamide can also cause a disulfiram-like reaction with alcohol and SIADH leading to low sodium.
+**Mechanism:** Close the beta-cell K-ATP channel → insulin released (glucose-independent). **Kinetics:** Glyburide avoided in kidney failure; glipizide safer. **Side effects:** Hypoglycaemia (main one) and weight gain; chlorpropamide → disulfiram reaction and SIADH.
 
 ---
-
 ## 6. Glinides (Repaglinide, Nateglinide)
 
 **Definition/Intro**
@@ -2289,10 +2236,9 @@ Glinides are short-acting insulin secretagogues, also called meglitinides; they 
 - Less hypoglycemia than sulfonylureas due to short half-life
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Glinides work the same way as sulfonylureas — they close K-ATP channels on beta cells so insulin is released — but they bind a different spot on the channel, kick in faster, and wear off sooner. **Pharmacokinetics:** They are taken right before each meal and skipped if the meal is skipped. Repaglinide is broken down by the liver and removed in bile, so it is safe in kidney failure. Nateglinide is also liver-metabolized but its metabolites leave through the kidneys. Both last only about 4 hours, which is why they mainly target after-meal sugar spikes. **Adverse effects:** Hypoglycemia can happen but is less common than with sulfonylureas because the drug wears off quickly. Weight gain is another downside. One key drug interaction: gemfibrozil must not be given with repaglinide because it causes dangerously low blood sugar.
+**Mechanism:** Same as sulfonylureas (close K-ATP) but fast and short — taken before each meal. **Kinetics:** Repaglinide is safe in kidney failure. **Side effects:** Hypoglycaemia (less than sulfonylureas) and weight gain.
 
 ---
-
 ## 7. Biguanides (Metformin)
 
 **Definition/Intro**
@@ -2324,10 +2270,9 @@ Glinides are short-acting insulin secretagogues, also called meglitinides; they 
 - Weight-neutral/loss distinguishes it from sulfonylureas and insulin
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Metformin turns on AMPK, which mainly tells the liver to stop making glucose. It also helps muscle and fat use insulin better. It does not push the beta cells to release insulin, so on its own it does not cause hypoglycemia. **Pharmacokinetics:** It is taken by mouth, is not broken down at all, and leaves the body unchanged through the kidneys. Half-life is about 6 hours. Because it depends on the kidneys, it is not allowed when eGFR is below 30 — the drug builds up and can cause lactic acidosis. It is also held before contrast dye procedures. **Adverse effects:** Stomach upset is the most common problem — nausea, diarrhea, and a metallic taste. The rare but life-threatening side effect is lactic acidosis. Long-term use can lower vitamin B12 levels and cause anemia. On the bright side, it is weight-neutral or causes mild weight loss.
+**Mechanism:** Activates AMPK → the liver makes less glucose; no hypoglycaemia alone; weight-neutral. **Kinetics:** Cleared unchanged by the kidneys — stop if eGFR under 30 or before contrast. **Side effects:** GI upset, rare lactic acidosis, long-term B12 deficiency.
 
 ---
-
 ## 8. Thiazolidinediones
 
 **Definition/Intro**
@@ -2362,10 +2307,9 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Troglitazone withdrawn for hepatotoxicity; pioglitazone linked to bladder cancer
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Thiazolidinediones — pioglitazone and rosiglitazone — switch on a nuclear receptor called PPARgamma, which changes gene activity so that fat, muscle, and liver become more sensitive to insulin. They also make more small fat cells that take up glucose better. **Pharmacokinetics:** Both are taken by mouth once a day and broken down in the liver. They take weeks to months to reach full effect, so do not expect fast results. Pioglitazone improves the lipid profile while rosiglitazone worsens it. **Adverse effects:** They cause weight gain and fluid build-up, which can make heart failure worse — so they are not allowed in NYHA class III or IV. They raise fracture risk in women because PPARgamma steers stem cells toward fat instead of bone. Troglitazone, the first drug in this class, was pulled from the market for liver damage. Pioglitazone may be linked to bladder cancer with long-term use.
+**Mechanism:** Activate PPAR-gamma → more insulin sensitivity; takes weeks to work. **Side effects:** Fluid retention and weight gain (avoid in heart failure), fractures in women, and pioglitazone is linked to bladder cancer.
 
 ---
-
 ## 9. Alpha-Glucosidase Inhibitors (Acarbose, Miglitol)
 
 **Definition/Intro**
@@ -2396,10 +2340,9 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Targets postprandial glucose; minimal effect on fasting glucose
 
 **🗣️ 30–60 sec oral answer**
-**Mechanism of action:** Acarbose and miglitol block alpha-glucosidase enzymes on the brush border of the small intestine, so complex sugars and disaccharides cannot be broken down into simple sugars as fast. This slows glucose absorption and lowers the after-meal sugar spike. **Pharmacokinetics:** They must be swallowed with the first bite of each meal — no food means no effect. Acarbose stays in the gut and is barely absorbed; miglitol is absorbed and cleared by the kidneys. They do not cause hypoglycemia on their own, but if hypoglycemia happens while on another drug, treat it with pure glucose, not table sugar, because sucrose digestion is blocked. **Adverse effects:** Gas, bloating, and diarrhea are very common because undigested carbs get fermented by gut bacteria — this is the main reason patients stop taking them. Acarbose in high doses can raise liver enzymes.
+**Mechanism:** Block gut enzymes that digest carbs → lower post-meal sugar; take with the first bite. **Side effects:** Flatulence and diarrhoea; if hypoglycaemic on combo therapy, treat with glucose, not sucrose.
 
 ---
-
 ## 10. Glucocorticoids — Pharmacological Effects and Therapeutic Uses
 
 **Pharmacological effects on different organs**
@@ -2428,10 +2371,9 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Betamethasone for fetal lung maturity; dexamethasone for cerebral edema
 
 **🗣️ 30–60 sec oral answer**
-**Effects:** Glucocorticoids raise blood sugar by pushing the liver to make more glucose and blocking tissues from taking it up — they are diabetogenic. They are strong anti-inflammatory drugs because they block phospholipase A2 through lipocortin, which cuts off all prostaglandin and leukotriene production, and they also shut down NF-kB so fewer cytokines are made. They suppress immunity by killing lymphocytes and lowering eosinophils, while neutrophils go up from demargination. On muscle and bone, they cause wasting and osteoporosis. In the brain they can cause mood swings or even psychosis. **Therapeutic uses:** We use them as replacement in Addison's disease, as anti-inflammatories in asthma and arthritis, as immunosuppressants after organ transplant, to kill cancer cells in ALL and lymphoma, dexamethasone for brain swelling from tumors, and betamethasone to mature fetal lungs in preterm labor.
+**Effects:** Raise blood sugar (diabetogenic), strongly anti-inflammatory (block phospholipase A2) and immunosuppressive; neutrophils up, lymphocytes/eosinophils down. **Uses:** Replacement in Addison's, anti-inflammatory in asthma/arthritis, immunosuppression in transplant/autoimmune, lymphomas, and betamethasone for fetal lung maturity.
 
 ---
-
 ## 11. Glucocorticoids — Pharmacokinetics and Adverse Effects
 
 **Pharmacokinetics**
@@ -2464,5 +2406,5 @@ Thiazolidinediones (TZDs, "glitazones") are insulin sensitizers that act via nuc
 - Prednisone is a prodrug → needs hepatic activation to prednisolone (avoid in severe liver failure)
 
 **🗣️ 30–60 sec oral answer**
-**Pharmacokinetics:** Glucocorticoids are grouped by how long they last. Hydrocortisone is short-acting with the most salt-retaining effect, used for replacement. Prednisone and prednisolone are intermediate — note that prednisone is a prodrug that needs the liver to turn it into the active prednisolone. Dexamethasone is long-acting, has the strongest anti-inflammatory power, and zero mineralocorticoid activity. All are broken down in the liver by CYP3A4. **Adverse effects:** Chronic use causes Cushing-like features — moon face, buffalo hump, and central obesity. Osteoporosis is the most common serious long-term problem, so give calcium and vitamin D early. They raise blood sugar, increase infection risk by suppressing immunity, can reactivate TB, and cause cataracts and stomach ulcers. The most critical point: long-term steroids shut down the HPA axis, so if you stop them suddenly the patient can go into adrenal crisis — always taper the dose gradually.
+**Kinetics:** Hydrocortisone short-acting; prednisone intermediate (prodrug); dexamethasone long-acting, most potent, no mineralocorticoid effect. **Side effects:** Cushingoid look, osteoporosis, high sugar, infections, cataracts, ulcers; never stop suddenly — taper to avoid adrenal crisis.
 
